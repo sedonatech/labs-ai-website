@@ -1,5 +1,6 @@
 import { getPostBySlug, getAllPosts } from '@/lib/blog'
 import { getFaqsBySlug } from '@/lib/faqs'
+import { getRelatedSlugs } from '@/lib/related'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import Link from 'next/link'
@@ -63,6 +64,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   if (!post) notFound()
 
   const faqs = getFaqsBySlug(slug)
+  const relatedSlugs = getRelatedSlugs(slug)
+  const relatedPosts = relatedSlugs.map((s) => getPostBySlug(s)).filter(Boolean)
   const faqSchema = faqs.length > 0 ? {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
@@ -130,6 +133,40 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
           {post.description}
         </p>
         <div>{renderMarkdown(post.content)}</div>
+
+        {/* Related articles */}
+        {relatedPosts.length > 0 && (
+          <div style={{ marginTop: '3rem', marginBottom: '2rem' }}>
+            <p style={{ fontSize: 12, fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#86868b', marginBottom: '1rem' }}>
+              Related articles
+            </p>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+              {relatedPosts.map((related) => related && (
+                <Link
+                  key={related.slug}
+                  href={`/blog/${related.slug}`}
+                  style={{
+                    display: 'block',
+                    background: 'rgba(255,255,255,0.6)',
+                    backdropFilter: 'blur(12px)',
+                    WebkitBackdropFilter: 'blur(12px)',
+                    border: '1px solid rgba(0,0,0,0.06)',
+                    borderRadius: 14,
+                    padding: '1rem 1.25rem',
+                    textDecoration: 'none',
+                  }}
+                >
+                  <span style={{ fontSize: 11, fontWeight: 600, color: '#86868b', textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+                    {related.category}
+                  </span>
+                  <p style={{ fontSize: 15, fontWeight: 600, color: '#1d1d1f', marginTop: '0.25rem', letterSpacing: '-0.01em' }}>
+                    {related.title}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* CTA */}
         <div style={{
