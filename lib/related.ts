@@ -69,6 +69,11 @@ const relatedMap: Record<string, string[]> = {
     'voice-cloning-app-iphone',
     'elevenlabs-alternative-iphone',
   ],
+  'text-to-speech-for-instagram': [
+    'ai-voice-for-tiktok-reels-shorts',
+    'best-text-to-speech-app-ios',
+    'how-to-make-youtube-videos-without-recording-voice',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {

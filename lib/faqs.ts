@@ -253,6 +253,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, one of the advantages of AI voice audiobooks is editability. If you need to make changes, simply update your text and regenerate that section. This is much faster and cheaper than re-recording with human narrators.",
     },
   ],
+  'text-to-speech-for-instagram': [
+    {
+      question: "Can I use AI voiceovers commercially on Instagram Reels?",
+      answer: "Yes, AI-generated voiceovers from Labs AI can be used for commercial content on Instagram Reels. However, always review the app's terms of service and Instagram's guidelines regarding AI-generated content. Some jurisdictions may require disclosure when using AI voices.",
+    },
+    {
+      question: "What audio formats does Instagram accept for Reels voiceovers?",
+      answer: "Instagram accepts MP3, WAV, and AAC audio formats for Reels. Labs AI exports files in compatible formats, ensuring seamless integration with Instagram's editing interface.",
+    },
+    {
+      question: "Can I edit or adjust the AI voiceover after adding it to my Reel?",
+      answer: "You can adjust audio levels, timing, and sync within Instagram's editor. However, to modify the actual voiceover text or voice selection, you'll need to regenerate it in Labs AI and re-import it.",
+    },
+    {
+      question: "How many languages does Labs AI support for Instagram Reels?",
+      answer: "Labs AI supports 50+ languages, making it perfect for creating Reels targeting international audiences. Select your desired language, generate the voiceover, and expand your reach globally.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
