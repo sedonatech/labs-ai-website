@@ -237,6 +237,25 @@ const faqs: Record<string, FAQ[]> = {
   ],
 }
 
+  'ai-voice-for-audiobooks': [
+    {
+      question: "Can I create a commercial audiobook using Labs AI?",
+      answer: "Yes, absolutely. Labs AI is designed for both personal and commercial use. You can create audiobooks and sell them on platforms like Amazon KDP, Apple Books, and Audible. There are no restrictions on commercial distribution of audiobooks created with Labs AI.",
+    },
+    {
+      question: "How long does it take to create an audiobook with AI voice?",
+      answer: "The conversion process is extremely fast, typically taking just minutes to generate audio for an entire chapter. A 50,000-word novel can be fully converted to audiobook format in under an hour, compared to weeks or months with traditional narration methods.",
+    },
+    {
+      question: "What languages are supported for audiobook creation?",
+      answer: "Labs AI supports 50+ languages, making it easy to create audiobooks in multiple languages without needing different narrators. This is especially valuable for authors wanting to reach global audiences.",
+    },
+    {
+      question: "Can I edit the audiobook after it's generated?",
+      answer: "Yes, one of the advantages of AI voice audiobooks is editability. If you need to make changes, simply update your text and regenerate that section. This is much faster and cheaper than re-recording with human narrators.",
+    },
+  ],
+
 export function getFaqsBySlug(slug: string): FAQ[] {
   return faqs[slug] ?? []
 }
