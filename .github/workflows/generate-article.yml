@@ -1,0 +1,35 @@
+name: Generate Article
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Monday 9am UTC
+    - cron: '0 9 * * 4'  # Thursday 9am UTC
+  workflow_dispatch:      # manual trigger from GitHub
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate article
+        run: node scripts/generate-article.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "Labs AI Bot"
+          git config user.email "bot@sedonatech.uk"
+          git add -A
+          git diff --staged --quiet || git commit -m "auto: publish new article via Claude API"
+          git push
