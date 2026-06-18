@@ -73,26 +73,26 @@ Return ONLY raw JSON (no markdown, no backticks):
   fs.writeFileSync(path.join(blogDir, `${nextTopic.slug}.mdx`), data.content)
   console.log(`Written: content/blog/${nextTopic.slug}.mdx`)
 
-  // Update lib/faqs.ts
+  // Update lib/faqs.ts — inject inside the object before closing }
   const faqsPath = path.join(root, 'lib/faqs.ts')
   let faqsContent = fs.readFileSync(faqsPath, 'utf8')
   const faqEntry = `  '${nextTopic.slug}': [\n${data.faqs.map(f =>
     `    {\n      question: ${JSON.stringify(f.question)},\n      answer: ${JSON.stringify(f.answer)},\n    },`
   ).join('\n')}\n  ],\n`
   faqsContent = faqsContent.replace(
-    /\nexport function getFaqsBySlug/,
-    `\n${faqEntry}\nexport function getFaqsBySlug`
+    /\n}\n\nexport function getFaqsBySlug/,
+    `\n${faqEntry}}\n\nexport function getFaqsBySlug`
   )
   fs.writeFileSync(faqsPath, faqsContent)
   console.log('Updated lib/faqs.ts')
 
-  // Update lib/related.ts
+  // Update lib/related.ts — inject inside the object before closing }
   const relatedPath = path.join(root, 'lib/related.ts')
   let relatedContent = fs.readFileSync(relatedPath, 'utf8')
   const relatedEntry = `  '${nextTopic.slug}': [\n${data.relatedSlugs.map(s => `    '${s}',`).join('\n')}\n  ],\n`
   relatedContent = relatedContent.replace(
-    /\nexport function getRelatedSlugs/,
-    `\n${relatedEntry}\nexport function getRelatedSlugs`
+    /\n}\n\nexport function getRelatedSlugs/,
+    `\n${relatedEntry}}\n\nexport function getRelatedSlugs`
   )
   fs.writeFileSync(relatedPath, relatedContent)
   console.log('Updated lib/related.ts')

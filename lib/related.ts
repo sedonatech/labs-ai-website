@@ -64,13 +64,12 @@ const relatedMap: Record<string, string[]> = {
     'elevenlabs-alternative-iphone',
     'what-is-text-to-speech',
   ],
-}
-
   'ai-voice-for-audiobooks': [
     'best-text-to-speech-app-ios',
     'voice-cloning-app-iphone',
     'elevenlabs-alternative-iphone',
   ],
+}
 
 export function getRelatedSlugs(slug: string): string[] {
   return relatedMap[slug] ?? []

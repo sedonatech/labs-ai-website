@@ -235,8 +235,6 @@ const faqs: Record<string, FAQ[]> = {
       answer: 'Standard TTS uses pre-built AI voices. Voice cloning creates a personalized model of your specific voice. Labs AI offers both: 100+ ready-made voices and personal voice cloning.',
     },
   ],
-}
-
   'ai-voice-for-audiobooks': [
     {
       question: "Can I create a commercial audiobook using Labs AI?",
@@ -255,6 +253,7 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, one of the advantages of AI voice audiobooks is editability. If you need to make changes, simply update your text and regenerate that section. This is much faster and cheaper than re-recording with human narrators.",
     },
   ],
+}
 
 export function getFaqsBySlug(slug: string): FAQ[] {
   return faqs[slug] ?? []
