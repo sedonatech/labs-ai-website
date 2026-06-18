@@ -271,6 +271,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI supports 50+ languages, making it perfect for creating Reels targeting international audiences. Select your desired language, generate the voiceover, and expand your reach globally.",
     },
   ],
+  'ai-voice-for-elearning': [
+    {
+      question: "Can I use AI voices commercially in my paid courses?",
+      answer: "Yes. Labs AI and most reputable AI voice platforms explicitly allow commercial use. You can use generated voiceovers in courses you sell, both on platforms like Udemy and on your own website. Always check the terms of service for your specific platform to confirm licensing rights.",
+    },
+    {
+      question: "How natural do AI voices sound in e-learning content?",
+      answer: "Modern AI voices are highly natural and indistinguishable from human narration to most listeners. They handle proper pronunciation, pacing, and intonation well. For best results, write clear scripts with proper punctuation and avoid overly complex sentence structures.",
+    },
+    {
+      question: "What's the difference between text-to-speech and voice cloning for courses?",
+      answer: "Text-to-speech uses pre-built voices in the platform's library. Voice cloning lets you upload a sample of your own voice (usually 1-2 minutes) and have the AI recreate it for longer content. Voice cloning adds a personal touch and helps with course branding.",
+    },
+    {
+      question: "Is there a limit to how much content I can generate?",
+      answer: "Labs AI offers generous free limits for text-to-speech generation. For extensive course creation, you may need to manage generation across multiple sessions or days, but the free tier is sufficient for most individual instructors and smaller courses.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
