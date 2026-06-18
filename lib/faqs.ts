@@ -199,6 +199,42 @@ const faqs: Record<string, FAQ[]> = {
       answer: 'Yes. Labs AI is built on ElevenLabs technology, so the underlying voice quality is identical. You get the same natural, human-like voices in a native iPhone app.',
     },
   ],
+  'what-is-text-to-speech': [
+    {
+      question: 'What is text-to-speech?',
+      answer: 'Text-to-speech (TTS) is AI technology that converts written text into spoken audio. Modern TTS apps like Labs AI produce natural, human-sounding voices in 50+ languages.',
+    },
+    {
+      question: 'How does text-to-speech work?',
+      answer: 'TTS works by analyzing text, determining how each word should sound in context, then generating audio using a neural network trained on human speech. The result is natural, expressive audio.',
+    },
+    {
+      question: 'What is text-to-speech used for?',
+      answer: 'TTS is used for YouTube voiceovers, TikTok narration, podcasts, audiobooks, accessibility, e-learning, voice messages, and any content that requires spoken audio without recording.',
+    },
+    {
+      question: 'What is the best text-to-speech app for iPhone?',
+      answer: 'Labs AI is the best TTS app for iPhone in 2026. It offers 100+ natural AI voices, 50+ languages, voice cloning, and is free to download on the App Store.',
+    },
+  ],
+  'what-is-voice-cloning': [
+    {
+      question: 'What is voice cloning?',
+      answer: 'Voice cloning is an AI technology that creates a digital replica of your voice from a short audio sample. Once cloned, any text you type is converted into audio that sounds exactly like you.',
+    },
+    {
+      question: 'How long does voice cloning take?',
+      answer: 'With Labs AI on iPhone, voice cloning takes under a minute. Record a 30-second sample, and your personalized voice model is ready to use immediately.',
+    },
+    {
+      question: 'What is the best voice cloning app for iPhone?',
+      answer: 'Labs AI is the leading voice cloning app for iPhone, powered by ElevenLabs technology. It clones your voice in under a minute and supports 50+ languages.',
+    },
+    {
+      question: 'What is the difference between voice cloning and text-to-speech?',
+      answer: 'Standard TTS uses pre-built AI voices. Voice cloning creates a personalized model of your specific voice. Labs AI offers both: 100+ ready-made voices and personal voice cloning.',
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
