@@ -37,7 +37,22 @@ const relatedMap: Record<string, string[]> = {
   'voice-cloning-app-iphone': [
     'best-text-to-speech-app-ios',
     'elevenlabs-alternative-iphone',
-    'best-text-to-speech-for-meditation-content',
+    'labs-ai-vs-elevenlabs',
+  ],
+  'labs-ai-vs-speechify': [
+    'best-text-to-speech-app-ios',
+    'labs-ai-vs-naturalreader',
+    'labs-ai-vs-elevenlabs',
+  ],
+  'labs-ai-vs-naturalreader': [
+    'best-text-to-speech-app-ios',
+    'labs-ai-vs-speechify',
+    'labs-ai-vs-elevenlabs',
+  ],
+  'labs-ai-vs-elevenlabs': [
+    'elevenlabs-alternative-iphone',
+    'voice-cloning-app-iphone',
+    'labs-ai-vs-speechify',
   ],
 }
 

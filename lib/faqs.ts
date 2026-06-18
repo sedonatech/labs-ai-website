@@ -145,6 +145,60 @@ const faqs: Record<string, FAQ[]> = {
       answer: 'Labs AI is free to download on the App Store and includes voice cloning features. You can create your voice model without an upfront cost.',
     },
   ],
+  'labs-ai-vs-speechify': [
+    {
+      question: 'What is the difference between Labs AI and Speechify?',
+      answer: 'Speechify reads content to you (documents, PDFs, articles). Labs AI creates audio content for you (voiceovers, podcasts, video narration). They serve different purposes.',
+    },
+    {
+      question: 'Is Labs AI better than Speechify for content creators?',
+      answer: 'Yes. Labs AI is built for creating audio content with 100+ professional voices and voice cloning. Speechify is built for consuming written content faster.',
+    },
+    {
+      question: 'Is Labs AI cheaper than Speechify?',
+      answer: 'Labs AI is free to download on iOS. Speechify requires around $139/year for full access. Labs AI is significantly more affordable for creators.',
+    },
+    {
+      question: 'Can Labs AI replace Speechify?',
+      answer: 'It depends on your use case. If you want to create voiceovers and audio content, Labs AI is the better tool. If you want to listen to documents at high speed, Speechify still serves that specific need.',
+    },
+  ],
+  'labs-ai-vs-naturalreader': [
+    {
+      question: 'What is the difference between Labs AI and NaturalReader?',
+      answer: 'NaturalReader is a web-based document reader. Labs AI is a native iPhone app for creating professional voiceovers and audio content with 100+ AI voices.',
+    },
+    {
+      question: 'Is Labs AI better than NaturalReader on iPhone?',
+      answer: 'Yes. Labs AI is built natively for iOS while NaturalReader is primarily a web tool. Labs AI also uses ElevenLabs technology for significantly better voice quality.',
+    },
+    {
+      question: 'Is NaturalReader free?',
+      answer: 'NaturalReader has a limited free tier. Full access requires a premium plan starting around $9.99/month. Labs AI is free to download and use on iPhone.',
+    },
+    {
+      question: 'Which app has better AI voices, Labs AI or NaturalReader?',
+      answer: 'Labs AI uses ElevenLabs technology, which produces more natural-sounding voices than NaturalReader. For published audio content, the difference in quality is noticeable.',
+    },
+  ],
+  'labs-ai-vs-elevenlabs': [
+    {
+      question: 'Is Labs AI the same as ElevenLabs?',
+      answer: 'Labs AI is a native iPhone app powered by ElevenLabs voice technology. You get the same premium AI voice quality in a mobile-first app without needing a browser or subscription.',
+    },
+    {
+      question: 'Is Labs AI cheaper than ElevenLabs?',
+      answer: 'Yes. Labs AI is free to download on iPhone. ElevenLabs starts at $5/month with a very limited free tier. Labs AI offers better value for iPhone creators.',
+    },
+    {
+      question: 'Does ElevenLabs have an iPhone app?',
+      answer: 'No. ElevenLabs is web-only and has no native iOS app. Labs AI fills this gap by bringing ElevenLabs-quality voices to a dedicated iPhone experience.',
+    },
+    {
+      question: 'Does Labs AI have the same voice quality as ElevenLabs?',
+      answer: 'Yes. Labs AI is built on ElevenLabs technology, so the underlying voice quality is identical. You get the same natural, human-like voices in a native iPhone app.',
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
