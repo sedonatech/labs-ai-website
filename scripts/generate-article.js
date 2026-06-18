@@ -53,7 +53,9 @@ Return ONLY raw JSON (no markdown, no backticks):
     {"question": "...", "answer": "..."},
     {"question": "...", "answer": "..."}
   ],
-  "relatedSlugs": ["slug1", "slug2", "slug3"]
+  "relatedSlugs": ["slug1", "slug2", "slug3"],
+  "redditTitle": "short natural Reddit post title (no promotional tone, sounds like a real user sharing a tip)",
+  "redditBody": "2-4 paragraph Reddit post body. Sounds like a real person sharing a workflow or discovery. Mention Labs AI naturally once. End with a genuine question to invite replies. NO em-dashes, NO promotional language."
 }`
 
   const response = await client.messages.create({
@@ -96,6 +98,19 @@ Return ONLY raw JSON (no markdown, no backticks):
   )
   fs.writeFileSync(relatedPath, relatedContent)
   console.log('Updated lib/related.ts')
+
+  // Append Reddit draft to docs/reddit-drafts.md
+  if (data.redditTitle && data.redditBody) {
+    const draftsPath = path.join(root, 'docs/reddit-drafts.md')
+    const draftsExist = fs.existsSync(draftsPath)
+    const draftEntry = `\n---\n\n## ${today} - ${nextTopic.title}\n\n**Titre Reddit :** ${data.redditTitle}\n\n**Corps du post :**\n\n${data.redditBody}\n`
+    if (draftsExist) {
+      fs.appendFileSync(draftsPath, draftEntry)
+    } else {
+      fs.writeFileSync(draftsPath, `# Brouillons Reddit - Labs AI\n\nUn post par mois maximum. Copier-coller dans r/iphone ou r/productivity.\n${draftEntry}`)
+    }
+    console.log('Updated docs/reddit-drafts.md')
+  }
 
   console.log(`Done: "${nextTopic.title}"`)
 }
