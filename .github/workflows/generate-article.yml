@@ -6,6 +6,9 @@ on:
     - cron: '0 9 * * 4'  # Thursday 9am UTC
   workflow_dispatch:      # manual trigger from GitHub
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
