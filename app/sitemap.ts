@@ -1,4 +1,4 @@
-import { getAllPosts } from '@/lib/blog'
+import { getAllPosts, getAllPostsLocale, SUPPORTED_LOCALES } from '@/lib/blog'
 import type { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -11,6 +11,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly' as const,
     priority: 0.7,
   }))
+
+  const localeUrls = SUPPORTED_LOCALES.flatMap((locale) =>
+    getAllPostsLocale(locale).map((post) => ({
+      url: `${baseUrl}/${locale}/blog/${post.slug}`,
+      lastModified: new Date(post.date),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    }))
+  )
 
   return [
     {
@@ -26,5 +35,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     ...blogUrls,
+    ...localeUrls,
   ]
 }
