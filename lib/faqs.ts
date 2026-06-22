@@ -289,6 +289,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI offers generous free limits for text-to-speech generation. For extensive course creation, you may need to manage generation across multiple sessions or days, but the free tier is sufficient for most individual instructors and smaller courses.",
     },
   ],
+  'text-to-speech-arabic': [
+    {
+      question: "Does Labs AI support Modern Standard Arabic and dialects?",
+      answer: "Yes, Labs AI includes multiple Arabic voices that support Modern Standard Arabic (MSA) and various regional dialects. You can choose the voice that best matches your audience and content type.",
+    },
+    {
+      question: "Can I clone my own voice in Arabic?",
+      answer: "Absolutely. Labs AI's voice cloning feature allows you to create a personalized Arabic voice based on your vocal characteristics. Simply provide a short audio sample, and the app's AI will generate a unique voice clone you can use for all your projects.",
+    },
+    {
+      question: "Is Labs AI completely free for Arabic text-to-speech?",
+      answer: "Yes, Labs AI is 100% free with no watermarks, paywalls, or premium tiers. You get full access to all Arabic voices and features without paying anything.",
+    },
+    {
+      question: "Can I export voiceovers for YouTube, TikTok, and other platforms?",
+      answer: "Yes, Labs AI lets you download high-quality audio files that work with any platform, including YouTube, TikTok, Instagram, podcasting software, and video editors.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
