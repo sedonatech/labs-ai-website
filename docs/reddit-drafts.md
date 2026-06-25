@@ -35,3 +35,17 @@ The voice cloning feature is wild too. I cloned my voice in like 30 seconds and 
 I know there are other text-to-speech apps out there, but for Arabic specifically, I haven't found anything that comes close to this quality at zero cost. Already using it for YouTube videos and might explore audiobooks next.
 
 Has anyone else here used AI voiceover apps for non-English content? How's your experience been with accuracy and naturalness?
+
+---
+
+## 2026-06-25 - Best French Text-to-Speech App for iPhone
+
+**Titre Reddit :** Finally found a solid free French text-to-speech app for my iPhone that doesn't sound robotic
+
+**Corps du post :**
+
+Been looking for a decent French TTS solution for my language learning videos, and most apps either charge a ton or sound like a computer from 2005. Just discovered Labs AI and honestly it's been a game changer. The French voices actually sound natural, there are multiple accent options, and it's completely free on iOS with no subscription nonsense.
+
+I've been using it to generate French voiceovers for my learning content, and people have commented that the audio quality is way better than what they expected from a free app. Plus it supports like 50+ languages if you ever need to branch out beyond French.
+
+Anyone else using AI text-to-speech apps for language learning content? Curious if you've tried others and how they compare.

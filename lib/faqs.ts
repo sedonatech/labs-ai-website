@@ -307,6 +307,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, Labs AI lets you download high-quality audio files that work with any platform, including YouTube, TikTok, Instagram, podcasting software, and video editors.",
     },
   ],
+  'text-to-speech-french': [
+    {
+      question: "Is Labs AI free for French text-to-speech?",
+      answer: "Yes, Labs AI is completely free on iOS. You get unlimited access to all French voices, 100+ total voices across 50+ languages, and advanced features like voice cloning without any subscription costs or hidden fees.",
+    },
+    {
+      question: "What French accents does Labs AI support?",
+      answer: "Labs AI includes multiple French voice options representing different regional accents including Parisian French, Belgian French, Swiss French, and Québécois. Each voice sounds authentically natural with proper French phonetics and intonation.",
+    },
+    {
+      question: "Can I clone my own French voice with Labs AI?",
+      answer: "Yes, Labs AI includes voice cloning technology. You can record a brief French speech sample, and the app creates a custom AI voice based on that sample. This is perfect for maintaining consistent branding across your French content.",
+    },
+    {
+      question: "Can I use Labs AI French voiceovers for YouTube and TikTok?",
+      answer: "Absolutely. Labs AI generates high-quality MP3 files that you can use for YouTube videos, TikTok, Instagram Reels, and other platforms. The audio quality is professional-grade and suitable for monetized content.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
