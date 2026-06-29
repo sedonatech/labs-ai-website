@@ -49,3 +49,17 @@ Been looking for a decent French TTS solution for my language learning videos, a
 I've been using it to generate French voiceovers for my learning content, and people have commented that the audio quality is way better than what they expected from a free app. Plus it supports like 50+ languages if you ever need to branch out beyond French.
 
 Anyone else using AI text-to-speech apps for language learning content? Curious if you've tried others and how they compare.
+
+---
+
+## 2026-06-29 - Best Spanish Text-to-Speech App for iPhone
+
+**Titre Reddit :** Just discovered Labs AI for creating Spanish voiceovers on iPhone, saves so much time
+
+**Corps du post :**
+
+Been working on Spanish-language content for a while and always struggled with voiceovers. Either I'd record myself (which sounds rough after take 50) or pay voice actors (expensive for testing new videos). Found Labs AI and honestly it's been a game changer.
+
+The Spanish voice options actually sound natural, nothing like those robotic text-to-speech apps from 10 years ago. I tested it on some TikTok scripts and the pronunciation is solid. Best part is it's completely free, no hidden paywall where they lock the good voices behind a subscription.
+
+I'm also testing the voice cloning feature so all my videos have the same consistent voice. Has anyone else used Labs AI for Spanish content creation? Curious if you've had better luck with specific voice settings or if there's anything I'm missing with the app.

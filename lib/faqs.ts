@@ -325,6 +325,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Absolutely. Labs AI generates high-quality MP3 files that you can use for YouTube videos, TikTok, Instagram Reels, and other platforms. The audio quality is professional-grade and suitable for monetized content.",
     },
   ],
+  'text-to-speech-spanish': [
+    {
+      question: "Is Labs AI really free for Spanish text-to-speech?",
+      answer: "Yes, Labs AI is completely free on iOS. You can generate unlimited Spanish voiceovers, use all 100+ voices, and access voice cloning without paying anything or dealing with ads.",
+    },
+    {
+      question: "Can I use the Spanish voiceovers I create commercially?",
+      answer: "Yes, all audio generated with Labs AI can be used for commercial purposes, including YouTube videos, TikTok content, podcasts, and business applications.",
+    },
+    {
+      question: "Which Spanish dialect should I choose?",
+      answer: "Choose based on your target audience. Castilian Spanish works for European markets, Mexican Spanish for Latin America, and so on. Labs AI offers multiple regional options so you can match your audience's dialect.",
+    },
+    {
+      question: "How does voice cloning work for Spanish?",
+      answer: "Record a 30-second Spanish speech sample in Labs AI, and the AI learns your voice characteristics. Then generate any Spanish text in that cloned voice, maintaining consistent tone across all your content.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
