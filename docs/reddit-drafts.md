@@ -1,6 +1,29 @@
 # Brouillons Reddit - Labs AI
 
-Un post par mois maximum. Copier-coller dans r/iphone ou r/productivity.
+Un post par mois maximum. Ton naturel, jamais promotionnel.
+
+## Communautes cibles (creators, pas r/iphone)
+
+Notre cible = les createurs de contenu, pas les fans d'iPhone. Les requetes GEO le confirment (YouTube sans voix, TikTok voiceover, podcast sans micro). Poster de preference dans :
+
+- **r/NewTubers** : nouveaux YouTubeurs, communaute la plus accueillante. Cible n1.
+- **r/youtubers** : createurs YouTube en general.
+- **r/podcasting** : angle "podcast sans micro".
+- **r/languagelearning** : colle aux brouillons FR/ES/AR (contenu d'apprentissage de langues).
+- **r/Tiktokhelp** : angle voiceover TikTok.
+- **r/SideProject** : indie / createurs, tolerant au partage d'outils.
+
+A EVITER : **r/VoiceActing** et les subs de doubleurs, hostiles aux voix IA (ca leur prend leur travail). Ne pas y poster.
+
+r/iphone est deconseille : audience peu qualifiee ET automod strict qui bloque les comptes a faible karma (posts retires en juin/juillet 2026).
+
+## Prerequis compte : karma
+
+Avant de poster, le compte Reddit doit avoir du karma (viser ~50) et quelques semaines d'age, sinon l'automod retire le post. Rechauffer le compte en commentant de facon utile (sans lien, sans citer Labs AI) dans les subs createurs ci-dessus, puis poster.
+
+## Regles par sub
+
+Chaque sub a sa regle "self-promotion" / "promotion & spam" : la lire avant de poster. Ton naturel obligatoire, jamais de pitch commercial.
 
 ---
 
