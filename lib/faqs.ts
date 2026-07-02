@@ -343,6 +343,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Record a 30-second Spanish speech sample in Labs AI, and the AI learns your voice characteristics. Then generate any Spanish text in that cloned voice, maintaining consistent tone across all your content.",
     },
   ],
+  'ai-voice-for-youtube-ads': [
+    {
+      question: "Can I use AI voiceovers in YouTube ads without disclosing that they're AI-generated?",
+      answer: "YouTube's policies don't explicitly require disclosure of AI-generated voiceovers in ads. However, FTC guidelines suggest transparency about synthetic media in advertising. Check your specific YouTube ad policies and local regulations. Many successful brands use AI voiceovers without disclosure, but erring on the side of transparency can build consumer trust.",
+    },
+    {
+      question: "Which AI voice works best for YouTube ads?",
+      answer: "The best voice depends on your product and target audience. Professional, clear voices work for B2B and software ads. Warm, conversational voices suit consumer products. Test 3-5 different voices from your AI text-to-speech platform and measure which generates higher click-through rates and engagement on YouTube.",
+    },
+    {
+      question: "How much does it cost to create YouTube ad voiceovers with AI?",
+      answer: "Labs AI is completely free on iOS, making it the most cost-effective option. Most premium AI voiceover services charge per character or word, ranging from $50-500+ per project. With Labs AI, you can generate unlimited voiceovers at no cost, making it ideal for testing and scaling multiple ad campaigns.",
+    },
+    {
+      question: "Can I edit the voiceover after it's generated?",
+      answer: "You can't edit the voiceover file itself, but you can regenerate it with different scripts, speeds, or emotions. For detailed editing needs, export the MP3 and use audio editing software to adjust timing, add music, or layer multiple voiceovers together for complex ad narratives.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

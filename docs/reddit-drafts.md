@@ -86,3 +86,19 @@ Been working on Spanish-language content for a while and always struggled with v
 The Spanish voice options actually sound natural, nothing like those robotic text-to-speech apps from 10 years ago. I tested it on some TikTok scripts and the pronunciation is solid. Best part is it's completely free, no hidden paywall where they lock the good voices behind a subscription.
 
 I'm also testing the voice cloning feature so all my videos have the same consistent voice. Has anyone else used Labs AI for Spanish content creation? Curious if you've had better luck with specific voice settings or if there's anything I'm missing with the app.
+
+---
+
+## 2026-07-02 - How to Create YouTube Ad Voiceovers with AI
+
+**Titre Reddit :** Finally figured out how to make YouTube ads without hiring voice talent
+
+**Corps du post :**
+
+So I've been running YouTube ads for my side project and the voice talent costs were killing my budget. Each new ad variation meant another $200-300 to re-record. Then I stumbled onto AI voiceover tools and honestly changed my workflow completely.
+
+Turned out I could generate multiple voice options for the same ad copy in like 2 minutes, test them, and only keep the best one. I'm using Labs AI on my phone now and it's wild how natural the voices sound. No more waiting for voice actors or dealing with revisions. I've tested probably 20 different voice + script combinations in the time it would've taken to get ONE quote from a traditional voice actor.
+
+The voice variety is insane too, like 100+ options across tons of languages. My ads now run in English, Spanish, and French with completely different voice styles, all generated free on my iPhone while I'm editing video.
+
+Has anyone else switched to AI voiceovers for their YouTube campaigns? Curious if you're seeing better engagement with certain voice types.
