@@ -361,6 +361,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "You can't edit the voiceover file itself, but you can regenerate it with different scripts, speeds, or emotions. For detailed editing needs, export the MP3 and use audio editing software to adjust timing, add music, or layer multiple voiceovers together for complex ad narratives.",
     },
   ],
+  'voice-cloning-content-creators': [
+    {
+      question: "How long does it take to create a voice clone with Labs AI?",
+      answer: "Creating a voice clone with Labs AI takes just a few minutes. You provide a short audio sample of your voice, and the AI processes it to create your voice clone. Once ready, you can generate unlimited voiceovers instantly using that cloned voice.",
+    },
+    {
+      question: "Can I use voice cloning for commercial content?",
+      answer: "Yes. With Labs AI, you can use your voice clone for commercial projects, YouTube monetization, podcasts, and other commercial applications. The voice clone belongs to you, and you have full rights to use it across any platform.",
+    },
+    {
+      question: "Is voice cloning quality good enough for professional production?",
+      answer: "Absolutely. Modern voice cloning powered by AI has reached professional quality levels. The voiceovers sound natural, with proper inflection and pacing. Many professional creators and studios now use voice cloning for production work that previously required human voice actors.",
+    },
+    {
+      question: "What languages does Labs AI voice cloning support?",
+      answer: "Labs AI supports 50+ languages for text-to-speech, including voice cloning capabilities. This means you can generate voiceovers in multiple languages using your cloned voice, making it perfect for creators targeting global audiences.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
