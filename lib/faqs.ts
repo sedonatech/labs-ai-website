@@ -379,6 +379,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI supports 50+ languages for text-to-speech, including voice cloning capabilities. This means you can generate voiceovers in multiple languages using your cloned voice, making it perfect for creators targeting global audiences.",
     },
   ],
+  'text-to-speech-for-linkedin': [
+    {
+      question: "Can I use Labs AI voiceovers on LinkedIn for commercial purposes?",
+      answer: "Yes. Labs AI voiceovers are completely free to generate and use, including for commercial content, company videos, and professional LinkedIn posts. There are no licensing restrictions or attribution requirements.",
+    },
+    {
+      question: "Which voice should I choose for professional LinkedIn content?",
+      answer: "For professional content, choose neutral, clear voices with a business tone. Labs AI offers multiple options across different accents and ages. Test 2-3 different voices with your audience to see which resonates best for your specific niche.",
+    },
+    {
+      question: "How long does it take to generate a LinkedIn video voiceover with Labs AI?",
+      answer: "Most voiceovers generate in seconds to 1-2 minutes, depending on script length and voice selection. This makes it faster than recording, editing, and re-recording your own voiceover.",
+    },
+    {
+      question: "Can Labs AI voices handle specific LinkedIn jargon or technical terms?",
+      answer: "Yes. Labs AI's neural network understands professional terminology well. If you need custom pronunciation for specific terms, the app includes pronunciation adjustment tools to ensure accuracy.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
