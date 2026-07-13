@@ -132,3 +132,19 @@ Now I just write my LinkedIn script, paste it into the app, pick a voice from 10
 The voice cloning feature is interesting too, though I haven't needed it yet. But the fact that Labs AI is completely free on the App Store with no subscription catches people off guard when I mention it.
 
 Anyone else using AI voiceovers for LinkedIn, or do most people stick with recording themselves?
+
+---
+
+## 2026-07-13 - How Real Estate Agents Use AI Voice for Property Tours
+
+**Titre Reddit :** Real estate agents are using AI voice narration for property tours and it's saving them hours
+
+**Corps du post :**
+
+Been helping a realtor friend set up property listings, and we started experimenting with AI voice narration for virtual tours instead of hiring voice actors. The time difference is insane, like seriously going from scheduling recording sessions and dealing with edits to having a professional-sounding voiceover generated in minutes.
+
+What surprised us most is how much it improves engagement. The listings with narrated tours are getting way more inquiry responses compared to standard silent videos. Buyers seem to engage more with properties when there's someone walking them through the features and neighborhood details.
+
+We've been using Labs AI on iPhone since the agent is constantly on the go between client meetings. The voice quality is genuinely professional, and the voice cloning feature means her listings now have a consistent signature voice that buyers are starting to recognize.
+
+Has anyone else tried this approach for real estate marketing? Curious if the engagement bump holds up over time or if it's just the novelty factor.

@@ -397,6 +397,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes. Labs AI's neural network understands professional terminology well. If you need custom pronunciation for specific terms, the app includes pronunciation adjustment tools to ensure accuracy.",
     },
   ],
+  'ai-voice-for-real-estate': [
+    {
+      question: "Can AI voice narration sound natural for property tours?",
+      answer: "Modern AI voices, especially advanced systems like ElevenLabs technology, produce incredibly natural-sounding narration. The quality rivals professional voice actors, and many buyers cannot distinguish AI-generated narration from human recording. Natural-sounding narration actually increases listing engagement compared to robotic alternatives.",
+    },
+    {
+      question: "How much does it cost to create AI voice property tour narrations?",
+      answer: "Labs AI offers completely free access on iPhone, allowing unlimited narration generation at no cost. This eliminates traditional expenses like hiring voice actors ($500-2000+ per property) or expensive recording equipment. Agents can create unlimited narrations for their entire portfolio at zero investment.",
+    },
+    {
+      question: "Can I use voice cloning to create a signature real estate brand voice?",
+      answer: "Yes. Voice cloning allows you to create a distinctive agent voice appearing across all property listings. Buyers begin recognizing and associating your signature voice with quality properties, building brand recognition and trust. This consistency differentiates your marketing from competitors using standard voices.",
+    },
+    {
+      question: "What languages can I use for international buyer marketing?",
+      answer: "Labs AI supports 50+ languages including Spanish, Mandarin, French, Arabic, Portuguese, and many others. Real estate agents in diverse markets can instantly create multilingual property narrations, reaching international buyers without translation delays or additional costs.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
