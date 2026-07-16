@@ -415,6 +415,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI supports 50+ languages including Spanish, Mandarin, French, Arabic, Portuguese, and many others. Real estate agents in diverse markets can instantly create multilingual property narrations, reaching international buyers without translation delays or additional costs.",
     },
   ],
+  'faceless-youtube-channel-guide': [
+    {
+      question: "Can I monetize a faceless YouTube channel?",
+      answer: "Yes. Faceless channels monetize through YouTube AdSense (after meeting 1K subscribers and 4K watch hours), sponsorships, affiliate marketing, and digital products. Many faceless channels earn $1,000-$10,000+ monthly once established.",
+    },
+    {
+      question: "Is it legal to use AI voiceovers on YouTube?",
+      answer: "Yes, using AI text-to-speech voiceovers is completely legal. YouTube's policies allow synthetic voices. However, disclose AI usage in your description if required by your jurisdiction or if making claims about expertise. Most faceless channels don't explicitly mention AI voiceovers since viewers focus on content value.",
+    },
+    {
+      question: "How long does it take to make a faceless YouTube video?",
+      answer: "Once your pipeline is set up, a 10-minute video takes 2-4 hours: 30 minutes scripting, 10 minutes voiceover generation, 1.5-2 hours editing and formatting, and 30 minutes optimization. Batching videos reduces per-video time significantly.",
+    },
+    {
+      question: "What's the best niche for faceless YouTube channels in 2026?",
+      answer: "Educational content, finance/crypto, technology, and motivation perform well. Choose niches with proven 100K+ channels, consistent upload schedules, and audience demand. Avoid oversaturated niches unless you offer a unique angle. Research your specific niche before committing.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

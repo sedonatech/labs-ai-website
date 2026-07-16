@@ -114,6 +114,11 @@ const relatedMap: Record<string, string[]> = {
     'text-to-speech-for-linkedin',
     'voice-cloning-content-creators',
   ],
+  'faceless-youtube-channel-guide': [
+    'how-to-make-youtube-videos-without-recording-voice',
+    'ai-voice-for-youtube-ads',
+    'voice-cloning-content-creators',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {

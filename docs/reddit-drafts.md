@@ -148,3 +148,19 @@ What surprised us most is how much it improves engagement. The listings with nar
 We've been using Labs AI on iPhone since the agent is constantly on the go between client meetings. The voice quality is genuinely professional, and the voice cloning feature means her listings now have a consistent signature voice that buyers are starting to recognize.
 
 Has anyone else tried this approach for real estate marketing? Curious if the engagement bump holds up over time or if it's just the novelty factor.
+
+---
+
+## 2026-07-16 - How to Start a Faceless YouTube Channel with AI Voice in 2026
+
+**Titre Reddit :** Built a faceless YouTube channel in 6 weeks using AI voiceovers, here's what actually works
+
+**Corps du post :**
+
+So I've been experimenting with faceless YouTube channels for a few months and finally got one hitting 50K views consistently. The game-changer was switching from generic robot voices to something that actually sounds human. I used Labs AI on my phone to generate voiceovers (it's free and has a ton of natural-sounding voices), then batch-produced like 20 videos in a weekend using stock footage and simple editing.
+
+The biggest insight: niche selection matters way more than production quality. I tried a general finance channel first and got nowhere. Switched to "financial mistakes people make in their 20s" and suddenly videos were hitting 10K+ views. The voiceover quality helped retention though, especially on longer videos where people notice if audio sounds off.
+
+My workflow is pretty simple now: spend Monday writing 5-10 scripts, Tuesday generating voiceovers and sourcing footage, Wednesday-Thursday editing, then schedule uploads throughout the month. No camera equipment, no recording myself, just focused on making genuinely useful content.
+
+There's definitely a learning curve with thumbnails and titles, but I'm curious what made the biggest difference for anyone else doing this. Are you more successful with consistent daily uploads or fewer, higher-quality videos?
