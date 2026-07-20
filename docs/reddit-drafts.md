@@ -164,3 +164,17 @@ The biggest insight: niche selection matters way more than production quality. I
 My workflow is pretty simple now: spend Monday writing 5-10 scripts, Tuesday generating voiceovers and sourcing footage, Wednesday-Thursday editing, then schedule uploads throughout the month. No camera equipment, no recording myself, just focused on making genuinely useful content.
 
 There's definitely a learning curve with thumbnails and titles, but I'm curious what made the biggest difference for anyone else doing this. Are you more successful with consistent daily uploads or fewer, higher-quality videos?
+
+---
+
+## 2026-07-20 - How Teachers Use Text-to-Speech to Create Better Lessons
+
+**Titre Reddit :** Teachers, try converting your lesson notes to audio instantly with text-to-speech
+
+**Corps du post :**
+
+I've been using text-to-speech tools to create narrated versions of my lecture notes and it's genuinely saved me hours. Instead of recording myself over and over until it sounds right, I just paste my notes into the app, pick a voice, and download the MP3. Takes maybe two minutes total.
+
+What's really helpful is I can create different voice versions for different classes, add it to my slide decks, and students can listen while reviewing materials at home. Makes studying easier for my ESL students too since they can hear proper pronunciation.
+
+There's a free iOS app called Labs AI that handles this well with a ton of voice options. Curious if other teachers are doing this, or if you're still recording everything the traditional way? What's your workflow for creating audio content?

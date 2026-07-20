@@ -433,6 +433,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Educational content, finance/crypto, technology, and motivation perform well. Choose niches with proven 100K+ channels, consistent upload schedules, and audience demand. Avoid oversaturated niches unless you offer a unique angle. Research your specific niche before committing.",
     },
   ],
+  'text-to-speech-for-teachers': [
+    {
+      question: "Can teachers use text-to-speech content in paid courses or commercial projects?",
+      answer: "Yes, Labs AI's free tier allows commercial use. Teachers creating paid online courses, tutoring materials, or educational products can use the generated voiceovers without licensing restrictions. Always check specific platform policies for course content distribution.",
+    },
+    {
+      question: "Is AI-generated speech appropriate for all grade levels?",
+      answer: "AI speech works well for all ages, though lower elementary students sometimes benefit from human teachers' emotional expression in live instruction. However, AI voiceovers excel for supplementary materials, study guides, and self-paced learning across all grade levels.",
+    },
+    {
+      question: "How do I handle accents or pronunciation in multilingual classrooms?",
+      answer: "Labs AI offers 50+ language options with native speaker voices. You can generate the same content in multiple languages, allowing students to hear proper pronunciation in their native language or in English for ESL support.",
+    },
+    {
+      question: "Can I edit the generated audio after downloading?",
+      answer: "Yes. Downloaded audio files are standard MP3 or WAV formats that work with any audio editor. You can trim segments, adjust volume, or combine multiple voiceovers into longer lessons using free tools like Audacity.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
