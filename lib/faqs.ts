@@ -451,6 +451,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes. Downloaded audio files are standard MP3 or WAV formats that work with any audio editor. You can trim segments, adjust volume, or combine multiple voiceovers into longer lessons using free tools like Audacity.",
     },
   ],
+  'ai-voice-for-news-content': [
+    {
+      question: "Can I use AI voiceovers for news content on YouTube and TikTok?",
+      answer: "Yes. YouTube and TikTok permit AI-generated voiceovers. However, disclose AI usage in your description or captions for transparency. Many successful news channels now use AI voiceovers for Shorts, Reels, and compilations.",
+    },
+    {
+      question: "Which AI voice sounds most like a news anchor?",
+      answer: "This depends on your preference and language. Labs AI offers neutral, broadcaster-style voices optimized for news content. Test a few in the app's voice library. Voices like Aria, Onyx, and Echo are popular for news. Voice cloning lets you create a signature news voice.",
+    },
+    {
+      question: "How long does it take to generate a news voiceover?",
+      answer: "Most news scripts generate in 10-30 seconds on Labs AI. A 500-word article typically takes 3-5 minutes to read aloud. The entire workflow from script to published video takes under an hour on iOS.",
+    },
+    {
+      question: "Is Labs AI free for unlimited news voiceovers?",
+      answer: "Yes, Labs AI is completely free on iOS with no word limits or subscription required. Generate unlimited voiceovers across 100+ voices and 50+ languages.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

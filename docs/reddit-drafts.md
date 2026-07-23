@@ -178,3 +178,17 @@ I've been using text-to-speech tools to create narrated versions of my lecture n
 What's really helpful is I can create different voice versions for different classes, add it to my slide decks, and students can listen while reviewing materials at home. Makes studying easier for my ESL students too since they can hear proper pronunciation.
 
 There's a free iOS app called Labs AI that handles this well with a ton of voice options. Curious if other teachers are doing this, or if you're still recording everything the traditional way? What's your workflow for creating audio content?
+
+---
+
+## 2026-07-23 - How to Create News-Style AI Voiceovers for Social Media
+
+**Titre Reddit :** Using AI voices for news content is way easier than I thought
+
+**Corps du post :**
+
+Been creating news clips for LinkedIn and I was recording voiceovers myself until recently. The audio quality was inconsistent and it took forever. Switched to using Labs AI on my phone and honestly it's a game changer for news content. The neutral voices sound way more credible than I expected, especially when you pair them with B-roll.
+
+My workflow now is basically: write the script in my notes app, paste into Labs AI, pick a voice that sounds authoritative, generate it in 30 seconds, then throw it into my video editor with some footage. Takes about 20 minutes total instead of an hour. The voice consistency also helps because my audience recognizes it now.
+
+The voice cloning feature is interesting too, though I haven't messed with it much yet. Curious if anyone else here uses AI voices for news or similar content, and whether you've noticed any feedback from your audience about it?
