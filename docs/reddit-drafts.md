@@ -192,3 +192,19 @@ Been creating news clips for LinkedIn and I was recording voiceovers myself unti
 My workflow now is basically: write the script in my notes app, paste into Labs AI, pick a voice that sounds authoritative, generate it in 30 seconds, then throw it into my video editor with some footage. Takes about 20 minutes total instead of an hour. The voice consistency also helps because my audience recognizes it now.
 
 The voice cloning feature is interesting too, though I haven't messed with it much yet. Curious if anyone else here uses AI voices for news or similar content, and whether you've noticed any feedback from your audience about it?
+
+---
+
+## 2026-07-27 - How Entrepreneurs Use AI Voice to Scale Their Content
+
+**Titre Reddit :** I started using AI text-to-speech for my blog content and it's cut my production time by like 60%
+
+**Corps du post :**
+
+So I've been running a business blog for about 2 years, and I was always frustrated with the time investment in creating audio versions or podcast episodes. Everything required recording sessions, editing, or hiring someone.
+
+Recently switched to using an iOS app called Labs AI (it's free) and honestly, it's wild how much faster I can now convert written posts into polished audio content. I write the blog post like I normally would, generate the voiceover in a few minutes, then either upload it as a podcast episode or layer it into YouTube videos with some visuals. The voices actually sound professional enough that people don't immediately clock it as AI.
+
+The big win for me has been testing new content formats without the usual friction. I can now do TikToks, YouTube Shorts, and podcast clips from the same written piece in like an hour total. Before, even one of those would take me half a day.
+
+Anyone else using AI voice tools for their content workflow? Curious if you're seeing similar time savings or if I'm just the last person to jump on this.

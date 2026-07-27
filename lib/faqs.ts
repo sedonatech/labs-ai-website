@@ -469,6 +469,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, Labs AI is completely free on iOS with no word limits or subscription required. Generate unlimited voiceovers across 100+ voices and 50+ languages.",
     },
   ],
+  'text-to-speech-for-entrepreneurs': [
+    {
+      question: "Is AI voice good enough for professional business use?",
+      answer: "Absolutely. Modern AI voices like those in Labs AI sound natural and professional. They're used by Fortune 500 companies, podcasters with millions of listeners, and successful entrepreneurs. The technology has advanced dramatically, and what matters most is choosing a natural-sounding voice and using proper pacing and punctuation in your source text.",
+    },
+    {
+      question: "Can I use AI voice content for monetized YouTube or podcast channels?",
+      answer: "Yes. YouTube and podcast platforms allow AI-generated content as long as you're not impersonating a real person or violating other policies. Many successful channels use AI narration. Transparency with your audience is good practice, though not always required.",
+    },
+    {
+      question: "How much time does AI voice actually save compared to recording myself?",
+      answer: "Significant amounts. Recording and editing a 10-minute voiceover typically takes 1-2 hours. AI voice generation takes 2-5 minutes. Over a month of regular content creation, that's 20-40+ hours saved, which you can reinvest in strategy, growth, or other business priorities.",
+    },
+    {
+      question: "Will using AI voice hurt my brand or credibility?",
+      answer: "Not if done thoughtfully. Many successful entrepreneurs use AI voice as a productivity tool, not as a replacement for authentic communication. Use it for content distribution and format flexibility, while keeping your core brand voice authentic where it matters most, like direct customer communication.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
