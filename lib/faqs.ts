@@ -487,6 +487,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Not if done thoughtfully. Many successful entrepreneurs use AI voice as a productivity tool, not as a replacement for authentic communication. Use it for content distribution and format flexibility, while keeping your core brand voice authentic where it matters most, like direct customer communication.",
     },
   ],
+  'ai-voice-for-recipes': [
+    {
+      question: "Can I use AI voiceovers for monetized recipe videos on YouTube?",
+      answer: "Yes, absolutely. AI-generated voiceovers are your own creative content and can be used for monetized videos. Many successful recipe channels use AI voices for efficiency while maintaining quality. Just ensure your script and video footage are original.",
+    },
+    {
+      question: "Which AI voice works best for recipe videos?",
+      answer: "It depends on your brand style. Warm, conversational voices work well for casual cooking content, while clear, instructional voices suit detailed tutorials. Labs AI lets you test multiple voices from its 100+ options, so try a few with your script before committing.",
+    },
+    {
+      question: "How long does it take to generate a voiceover for a 10-minute recipe video?",
+      answer: "Typically 2-5 minutes. Writing your script might take 15-30 minutes depending on recipe complexity, but generating the actual audio with Labs AI takes just seconds. The biggest time savings come from eliminating multiple recording takes and editing.",
+    },
+    {
+      question: "Can I edit my voiceover after it's generated?",
+      answer: "Yes. Simply edit your original script in Labs AI and regenerate the audio. There's no need to re-record or use complex audio editing software. This makes revisions incredibly fast compared to traditional voiceover methods.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

@@ -208,3 +208,19 @@ Recently switched to using an iOS app called Labs AI (it's free) and honestly, i
 The big win for me has been testing new content formats without the usual friction. I can now do TikToks, YouTube Shorts, and podcast clips from the same written piece in like an hour total. Before, even one of those would take me half a day.
 
 Anyone else using AI voice tools for their content workflow? Curious if you're seeing similar time savings or if I'm just the last person to jump on this.
+
+---
+
+## 2026-07-30 - How to Create Recipe Video Voiceovers with AI
+
+**Titre Reddit :** Finally found a way to do recipe video voiceovers that doesn't suck
+
+**Corps du post :**
+
+Been making cooking content for a while and always hated recording voiceovers in my kitchen. Background noise is a nightmare, and I'd need like 10 takes to get something clean sounding. Started experimenting with AI text-to-speech on my phone and honestly it's changed everything.
+
+I just write out my script, pick a voice that matches my channel vibe, and boom, there's my voiceover. Takes minutes instead of the hour or two I used to spend recording and editing. The voices don't sound robotic anymore either, especially with Labs AI where you get 100+ options to choose from.
+
+I've been using it for about a month now and my viewers honestly can't tell the difference between this and me recording it myself. Plus I can make quick changes if something sounds weird, just edit the script and regenerate.
+
+Anyone else doing this for recipe content or other video types? How's your experience been with it?
