@@ -505,6 +505,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes. Simply edit your original script in Labs AI and regenerate the audio. There's no need to re-record or use complex audio editing software. This makes revisions incredibly fast compared to traditional voiceover methods.",
     },
   ],
+  'voice-cloning-for-brands': [
+    {
+      question: "How long does it take to clone a voice?",
+      answer: "Most voice cloning platforms, including Labs AI, can train a voice model in minutes. You'll provide a voice sample, and the AI processes it quickly. Within 5-15 minutes, your cloned voice is ready to generate audio.",
+    },
+    {
+      question: "Can I use a voice actor's voice for my brand?",
+      answer: "Yes. You can hire a professional voice actor to record a sample, then use voice cloning to create a model of their voice. You pay them once for the sample, then you have unlimited use of that voice. Make sure you have legal agreement in place for this use.",
+    },
+    {
+      question: "Is voice cloning legal for business use?",
+      answer: "Voice cloning is legal when you own the voice rights or have explicit permission. If you're cloning your own voice, there are no legal concerns. If using someone else's voice, get written consent. Always check the terms of service for your voice cloning platform.",
+    },
+    {
+      question: "Will my cloned voice sound robotic?",
+      answer: "Modern AI voice cloning sounds remarkably natural, especially from platforms powered by advanced models like ElevenLabs technology. The quality depends on your voice sample and the platform, but most business users report their cloned voices sound authentic and professional.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
