@@ -523,6 +523,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Modern AI voice cloning sounds remarkably natural, especially from platforms powered by advanced models like ElevenLabs technology. The quality depends on your voice sample and the platform, but most business users report their cloned voices sound authentic and professional.",
     },
   ],
+  'text-to-speech-for-travel-content': [
+    {
+      question: "Can I use AI voice for monetized travel YouTube videos?",
+      answer: "Yes, absolutely. AI-generated voiceovers are yours to use commercially. Many travel creators with millions of subscribers use AI text-to-speech for their videos. Just ensure your script and content are original, and comply with platform policies.",
+    },
+    {
+      question: "Do AI voices sound natural for travel content?",
+      answer: "Modern AI voices sound very natural, especially with proper script writing and audio editing. Travel audiences are accustomed to voiceovers, so viewers won't notice the difference. Labs AI's 100+ voices give you options to match your content style perfectly.",
+    },
+    {
+      question: "How do I make AI voiceovers sound less robotic?",
+      answer: "Write conversational scripts with natural phrasing, use punctuation to control pacing and emphasis, choose voices that match your content tone, and layer background music and ambient sound. Testing different voice options also helps find the best fit.",
+    },
+    {
+      question: "Which languages does Labs AI support for travel content?",
+      answer: "Labs AI supports 50+ languages including English, Spanish, French, German, Arabic, Mandarin, Japanese, and many others. This makes it easy to localize travel videos for global audiences without hiring multilingual voice actors.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

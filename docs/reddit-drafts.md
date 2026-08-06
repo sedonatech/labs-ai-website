@@ -238,3 +238,19 @@ I've been struggling with this for a while, creating YouTube videos, podcast epi
 Basically you record a short sample of your voice once, the AI creates a model of it, and then you can generate unlimited narration in your voice. I've been using it for YouTube intros, product demo videos, and even some of my podcast segments. The voice sounds natural, and the consistency makes everything feel more professional and on-brand.
 
 I'm curious if anyone else here is using AI voice cloning for their business? Does it feel weird hearing your own voice narrate everything at first, or am I just being paranoid?
+
+---
+
+## 2026-08-06 - How Travel Creators Use AI Voice for Their Videos
+
+**Titre Reddit :** Travel creators: how I started making voiceovers in 10 different languages without hiring anyone
+
+**Corps du post :**
+
+I've been running a travel channel for about 2 years, and the biggest production bottleneck was always voiceovers. I'd film in Thailand, want to release content in Thai, English, Spanish, and French, but couldn't justify paying $500+ per language for voice talent.
+
+Recently switched to AI text-to-speech and it's genuinely been a game changer. I write my script once, generate versions in multiple languages, and have audio ready to edit in like 20 minutes. The voices sound natural enough that most viewers don't question it. I've been using Labs AI on my phone, which is convenient since I'm always traveling anyway.
+
+The workflow is simple: script in native English, generate AI voiceovers in target languages, sync with footage and background music. The AI voices aren't perfect, but neither are rushed voiceover recordings in noisy hotel rooms.
+
+Has anyone else here found a workflow that works for producing multilingual content without burning out on voice recording costs?
