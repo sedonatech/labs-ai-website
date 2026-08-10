@@ -541,6 +541,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI supports 50+ languages including English, Spanish, French, German, Arabic, Mandarin, Japanese, and many others. This makes it easy to localize travel videos for global audiences without hiring multilingual voice actors.",
     },
   ],
+  'ai-voice-for-fitness-content': [
+    {
+      question: "Can AI voiceovers sound natural for fitness instruction?",
+      answer: "Modern AI voices, especially those from advanced platforms, sound natural and energetic enough for fitness content. The key is selecting a voice that matches your brand personality and writing scripts that flow naturally. Most viewers find AI voiceovers perfectly acceptable for instructional and motivational fitness content, particularly when paired with engaging visuals and music.",
+    },
+    {
+      question: "What's the best way to script a fitness voiceover?",
+      answer: "Write conversationally and keep sentences short. Include clear exercise names, rep counts, and timing cues. Use imperative language that motivates and instructs simultaneously. Example: 'Let's go, 20 jumping jacks, move with intention, control your breathing.' Test your script by reading it aloud to ensure it flows naturally when spoken by an AI voice.",
+    },
+    {
+      question: "Can I use AI voiceovers for monetized fitness videos?",
+      answer: "Yes, absolutely. Using AI-generated voiceovers in monetized content is allowed on YouTube, TikTok, Instagram, and other platforms. You maintain full rights to the generated audio, and it counts as original content for monetization purposes. Always check your specific platform's policies, but AI voiceovers are generally permitted across major social platforms.",
+    },
+    {
+      question: "How do I sync AI voiceover timing with my workout demonstrations?",
+      answer: "Write your script to match your filmed workout timing, accounting for intro and outro space. Generate the audio, import it into your video editor, and sync the narration with demonstrations. Most video editors allow you to stretch or compress audio slightly to match footage. Practice timing your demonstrations to your script before filming for seamless synchronization.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
