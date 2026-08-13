@@ -559,6 +559,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Write your script to match your filmed workout timing, accounting for intro and outro space. Generate the audio, import it into your video editor, and sync the narration with demonstrations. Most video editors allow you to stretch or compress audio slightly to match footage. Practice timing your demonstrations to your script before filming for seamless synchronization.",
     },
   ],
+  'text-to-speech-for-children-content': [
+    {
+      question: "Is Labs AI safe for creating kids content?",
+      answer: "Yes, Labs AI is completely safe and appropriate for creating children's content. All voices are professional, natural-sounding, and free from inappropriate content. The app itself has no ads or tracking issues that would concern parents.",
+    },
+    {
+      question: "Can I use Labs AI voices for commercial kids projects?",
+      answer: "Yes. Labs AI's free tier includes commercial usage rights, so you can monetize YouTube videos, sell audiobooks, or use voiceovers in paid courses without restrictions.",
+    },
+    {
+      question: "How long can my kids content voiceovers be?",
+      answer: "Labs AI supports long-form content perfect for full audiobooks, episodes, or extended educational videos. You can generate voiceovers as long as your script needs to be.",
+    },
+    {
+      question: "Can I create different character voices for one kids story?",
+      answer: "Absolutely. Switch between different voices from Labs AI's 100+ selection to create distinct characters, narrators, and dialogue. This makes storytelling more engaging and dynamic for young listeners.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
