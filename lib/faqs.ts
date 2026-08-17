@@ -577,6 +577,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Absolutely. Switch between different voices from Labs AI's 100+ selection to create distinct characters, narrators, and dialogue. This makes storytelling more engaging and dynamic for young listeners.",
     },
   ],
+  'ai-voice-for-finance-content': [
+    {
+      question: "Can AI voices handle financial terminology and numbers accurately?",
+      answer: "Yes, modern AI voices like those in Labs AI handle financial jargon, ticker symbols, and numbers clearly. The key is formatting your script properly with punctuation and pauses so numbers are pronounced correctly. Most creators don't notice any difference in comprehension between AI and human voiceovers for finance content.",
+    },
+    {
+      question: "Will YouTube penalize my channel for using AI voice?",
+      answer: "No. YouTube's policies don't prohibit AI voiceovers. You don't need to disclose that you're using AI voice. Many successful finance channels use AI voices without mentioning it. What matters is the quality of your financial information and how well your videos serve your audience.",
+    },
+    {
+      question: "How do I choose between different AI voices for finance content?",
+      answer: "Test 3-4 voices from Labs AI's 100+ options on a short finance script. Listen for clarity, pacing, and tone. Professional finance content often works well with measured, authoritative voices, but educational channels targeting beginners may prefer friendlier tones. Your audience preference should guide your choice.",
+    },
+    {
+      question: "Can I use AI voice cloning to create a signature finance voice?",
+      answer: "Yes. Labs AI offers voice cloning technology. You can clone your own voice or work with a voice artist to create a signature sound. This adds a unique branding element that distinguishes your channel from competitors while maintaining the consistency and speed benefits of AI voice generation.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
