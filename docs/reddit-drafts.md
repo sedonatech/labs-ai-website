@@ -300,3 +300,25 @@ Then I switched to AI voice for my scripts and it's been a complete game changer
 The tool I'm using (Labs AI) is free, which means I'm reinvesting the money I'd normally spend on freelance voice actors into better research and graphics instead. The whole workflow takes maybe 30 minutes from finished script to downloaded voiceover.
 
 For finance content especially, this works so well because clarity matters more than emotional delivery. Your audience is there for stock tips and investment education, not radio drama. Has anyone else tried this for YouTube or are you still doing your own voiceovers?
+
+---
+
+## 2026-08-20 - How to Create Content in 5 Languages with One Script
+
+**Titre Reddit :** I've been creating YouTube content in 5 languages using one script and AI voice. Here's how I did it.
+
+**Corps du post :**
+
+I started a channel covering personal finance tips, and realized I could reach way more people if I made content in multiple languages. Instead of hiring translators and voice actors (which is expensive), I found a better workflow:
+
+1. Write my script once in English
+2. Use a translation tool to convert it to Spanish, French, German, and Portuguese
+3. Paste each translation into Labs AI on my phone
+4. Generate audio in different voices for each language
+5. Drop the audio into my video editor
+
+The whole process takes maybe 2-3 hours for a 10-minute video in 5 languages. My Spanish and Portuguese videos are getting way more views than my English-only content was. The audio quality is honestly better than some voice actors I've hired before.
+
+The biggest surprise? It's completely free. I'm not paying per minute or monthly subscriptions. Labs AI just gives you 100+ voices and all those languages built in.
+
+Has anyone else tried this approach? I'm curious if people are doing this for podcasts or audiobooks too.

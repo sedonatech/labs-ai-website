@@ -595,6 +595,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes. Labs AI offers voice cloning technology. You can clone your own voice or work with a voice artist to create a signature sound. This adds a unique branding element that distinguishes your channel from competitors while maintaining the consistency and speed benefits of AI voice generation.",
     },
   ],
+  'multilingual-content-creation-ai': [
+    {
+      question: "Can I translate content automatically with AI text-to-speech?",
+      answer: "Most text-to-speech apps, including Labs AI, don't translate automatically. You'll need to translate your script separately using Google Translate, DeepL, or a professional translator. However, some platforms integrate translation services. For best results, always have native speakers review translations before voice generation.",
+    },
+    {
+      question: "How much does it cost to create content in 5 languages with AI?",
+      answer: "Labs AI is completely free on iOS, making multilingual content creation accessible to everyone. You only pay for translation services if you hire professional translators. Compared to hiring voice actors and editors for each language, AI text-to-speech saves thousands of dollars per project.",
+    },
+    {
+      question: "Which languages does Labs AI support?",
+      answer: "Labs AI supports 50+ languages including Spanish, French, German, Portuguese, Italian, Dutch, Polish, Turkish, Swedish, Norwegian, Danish, Finnish, Russian, Arabic, Hebrew, Japanese, Mandarin, Cantonese, Korean, Hindi, Bengali, Thai, Vietnamese, and many more.",
+    },
+    {
+      question: "Can I use voice cloning for multilingual content?",
+      answer: "Yes. Voice cloning on Labs AI lets you clone your own voice and use it across different languages, creating consistent narration regardless of which language version your audience hears. This is especially valuable for brands and personal creators building recognizable content.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
