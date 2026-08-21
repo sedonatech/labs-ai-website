@@ -28,6 +28,9 @@ const languages = [
   'Turkish', 'Swedish', 'Danish', 'Norwegian', 'Finnish', 'Greek', 'Hebrew',
   'Thai', 'Vietnamese', 'Indonesian', 'Bengali', 'Tamil', 'Ukrainian', 'Romanian',
   'Hungarian', 'Czech', 'Catalan', 'Farsi', 'Urdu', 'Malay', 'Tagalog',
+  'Bulgarian', 'Croatian', 'Serbian', 'Slovak', 'Slovenian', 'Lithuanian', 'Latvian',
+  'Estonian', 'Icelandic', 'Welsh', 'Afrikaans', 'Swahili', 'Telugu', 'Marathi',
+  'Kannada', 'Malayalam', 'Gujarati',
 ]
 
 const softwareAppSchema = {
