@@ -322,3 +322,19 @@ The whole process takes maybe 2-3 hours for a 10-minute video in 5 languages. My
 The biggest surprise? It's completely free. I'm not paying per minute or monthly subscriptions. Labs AI just gives you 100+ voices and all those languages built in.
 
 Has anyone else tried this approach? I'm curious if people are doing this for podcasts or audiobooks too.
+
+---
+
+## 2026-08-24 - How to Add AI Voice to X (Twitter) Video Posts
+
+**Titre Reddit :** Been using Labs AI to add voiceovers to my Twitter video posts, game changer for engagement
+
+**Corps du post :**
+
+So I've been experimenting with adding AI narration to my X video posts and honestly the engagement difference is noticeable. I was using written threads before but switching to quick video clips with voiceover has doubled my reach.
+
+My workflow is pretty simple: I write out the script in Labs AI (the free iPhone app), pick a voice from their 100+ library, download the MP3, then throw it into CapCut with my video clips. The whole thing takes like 5 minutes compared to recording myself multiple times to get it right.
+
+What I like most is that I can test different voices without sounding like an idiot doing takes in my room. Plus their voice cloning feature lets me keep the same voice consistent across all my posts so it actually feels like "my" channel even though it's AI generated.
+
+Anyone else doing this for their social media? Do you edit the voiceovers at all or just use them raw from the app?

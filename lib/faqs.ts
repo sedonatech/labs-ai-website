@@ -613,6 +613,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes. Voice cloning on Labs AI lets you clone your own voice and use it across different languages, creating consistent narration regardless of which language version your audience hears. This is especially valuable for brands and personal creators building recognizable content.",
     },
   ],
+  'text-to-speech-for-twitter-x': [
+    {
+      question: "Can I use Labs AI voiceovers directly in the X mobile app?",
+      answer: "No, X doesn't have native integration with text-to-speech tools. You need to generate your voiceover with Labs AI first, export it as an MP3, then add it to your video using third-party editing apps like iMovie or CapCut before uploading to X.",
+    },
+    {
+      question: "What audio file format does Labs AI export?",
+      answer: "Labs AI exports high-quality MP3 files compatible with all major video editing apps on iOS, including iMovie, CapCut, and Adobe Premiere Rush.",
+    },
+    {
+      question: "Is there a limit to how long an AI voiceover can be?",
+      answer: "Labs AI can generate voiceovers of any length, but X videos have a 2-hour maximum duration (typically only 15 seconds to 2 minutes recommended for best engagement). Most creators use 15-60 second voiceovers for X content.",
+    },
+    {
+      question: "Can I use voice cloning for my X video voiceovers?",
+      answer: "Yes, Labs AI's voice cloning feature lets you create a personalized AI voice from your own voice recording, perfect for building consistent brand identity across all your X video content.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
