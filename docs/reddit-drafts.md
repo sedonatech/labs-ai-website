@@ -338,3 +338,19 @@ My workflow is pretty simple: I write out the script in Labs AI (the free iPhone
 What I like most is that I can test different voices without sounding like an idiot doing takes in my room. Plus their voice cloning feature lets me keep the same voice consistent across all my posts so it actually feels like "my" channel even though it's AI generated.
 
 Anyone else doing this for their social media? Do you edit the voiceovers at all or just use them raw from the app?
+
+---
+
+## 2026-08-27 - How to Create Documentary-Style Narration with AI
+
+**Titre Reddit :** Finally figured out how to make documentary narration sound professional without hiring a voiceover actor
+
+**Corps du post :**
+
+I've been making educational videos for a while, and I always struggled with narration. Either I sounded awkward recording myself, or I'd spend hundreds hiring voice actors. Recently started experimenting with AI voice tools, specifically Labs AI on my iPhone, and honestly the results are way better than I expected.
+
+The trick isn't just dumping your script into the tool and hitting generate. You need to write your script with deliberate pacing, use punctuation strategically to create pauses, and pick a voice that actually fits documentary style rather than casual voiceovers. I tested different voices and found that some naturally have that authoritative-but-not-robotic tone that documentaries need.
+
+The voice cloning feature has been a game changer for series consistency. Now all my episodes have the same narrator, which feels way more professional. The whole workflow is on my phone, so I can iterate and tweak things without bouncing between apps.
+
+Has anyone else had success with AI narration for longer-form content? I'm curious what tools others are using and whether you found certain voices better than others for this type of work.

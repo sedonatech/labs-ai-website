@@ -174,6 +174,11 @@ const relatedMap: Record<string, string[]> = {
     'voice-cloning-content-creators',
     'ai-voice-for-news-content',
   ],
+  'ai-voice-for-documentaries': [
+    'how-to-make-youtube-videos-without-recording-voice',
+    'faceless-youtube-channel-guide',
+    'ai-voice-for-elearning',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {

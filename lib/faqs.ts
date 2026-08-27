@@ -631,6 +631,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, Labs AI's voice cloning feature lets you create a personalized AI voice from your own voice recording, perfect for building consistent brand identity across all your X video content.",
     },
   ],
+  'ai-voice-for-documentaries': [
+    {
+      question: "Can AI narration sound natural in documentaries?",
+      answer: "Yes, modern AI voices like those in Labs AI sound remarkably natural for documentary narration. The key is selecting voices designed for long-form content and properly formatting your script with strategic pauses and emphasis markers. Listeners often cannot distinguish AI narration from professional voice actors.",
+    },
+    {
+      question: "What's the difference between documentary narration and other voiceover styles?",
+      answer: "Documentary narration prioritizes clarity, authority, and measured pacing. It should sound credible and informative without feeling robotic. Unlike promotional voiceovers, documentary narration typically focuses on storytelling and education rather than calls-to-action.",
+    },
+    {
+      question: "How do I handle specialized terminology in documentary scripts?",
+      answer: "Write specialized terms phonetically if the AI struggles with pronunciation. Many AI tools, including Labs AI, allow you to adjust pronunciation for specific words. Test any specialized language before generating your full narration to ensure clarity.",
+    },
+    {
+      question: "Can I use voice cloning for documentary series consistency?",
+      answer: "Absolutely. Labs AI's voice cloning feature lets you create a custom voice that remains consistent across multiple documentary episodes or series. This builds audience recognition and professionalism, similar to established documentary series with signature narrators.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
