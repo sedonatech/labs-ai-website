@@ -667,6 +667,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Absolutely. AI voice platforms like Labs AI support 50+ languages, allowing you to generate meditation voiceovers in different languages without hiring multilingual voice talent. This enables creators to launch globally and reach audiences worldwide simultaneously.",
     },
   ],
+  'voice-cloning-multilingual': [
+    {
+      question: "Can I clone my voice and use it in languages I don't speak?",
+      answer: "Yes, absolutely. Voice cloning captures your vocal characteristics and applies them to any language Labs AI supports. You don't need to speak the language yourself, the AI handles pronunciation and speech patterns automatically while maintaining your unique voice.",
+    },
+    {
+      question: "How long does it take to clone my voice?",
+      answer: "Voice cloning in Labs AI takes just a few minutes. After uploading a 30-60 second voice sample, the AI analyzes your vocal patterns and creates a clone. You can start generating multilingual content immediately afterward.",
+    },
+    {
+      question: "Will my cloned voice sound natural in all 50+ languages?",
+      answer: "Yes, Labs AI uses advanced neural technology to adapt your voice naturally to different languages and phonetics. Your cloned voice maintains your personality and tone while sounding authentic in each new language, far superior to traditional text-to-speech engines.",
+    },
+    {
+      question: "Is voice cloning free on Labs AI?",
+      answer: "Yes, Labs AI offers voice cloning and multilingual text-to-speech completely free. Download the app from the App Store with no subscription required. You get access to 100+ voices, voice cloning, and 50+ languages at no cost.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

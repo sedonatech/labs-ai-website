@@ -370,3 +370,17 @@ The biggest surprise has been how well users respond to the AI voices. I was hon
 What's really enabled me to scale is generating content in multiple languages. Without AI voice, going multilingual would have tripled my costs. Now I can launch in English, Spanish, and French simultaneously. The consistency of voice across sessions also creates a better user experience.
 
 Has anyone else ditched traditional voice actors for AI? I'm curious if you've hit any limitations or quality issues I should watch for as I scale up.
+
+---
+
+## 2026-09-03 - How to Speak in 50 Languages Using Your Cloned Voice
+
+**Titre Reddit :** Just discovered you can clone your voice and speak in 50 languages with it
+
+**Corps du post :**
+
+So I've been using Labs AI on my iPhone, and I'm kind of blown away by the voice cloning feature. Recorded myself for like a minute, and now I can generate audio in basically any language with my own voice. It's actually natural sounding too, not the robotic stuff from 5 years ago.
+
+Been using it to create content for different markets, and clients are genuinely surprised when they hear their product description in Spanish, Japanese, and Portuguese all in the same voice. No hiring voice actors per language, no re-recording anything. The free version has everything you need, 50+ languages and 100+ other voices if you want alternatives.
+
+Anyone else using voice cloning for multilingual content? What languages are you working with?
