@@ -685,6 +685,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, Labs AI offers voice cloning and multilingual text-to-speech completely free. Download the app from the App Store with no subscription required. You get access to 100+ voices, voice cloning, and 50+ languages at no cost.",
     },
   ],
+  'text-to-speech-for-salespeople': [
+    {
+      question: "Can AI voice video emails get past spam filters?",
+      answer: "Yes, because the voiceover is embedded in the video file itself, not the email code. Video-based prospecting typically bypasses spam filters better than text email. However, ensure your email list is clean and your domain reputation is solid for maximum deliverability.",
+    },
+    {
+      question: "Do prospects know the voice is AI-generated?",
+      answer: "If you use a quality text-to-speech tool like Labs AI with its 100+ natural-sounding voices, most prospects won't notice or care. They focus on the message content and personalization. The perceived authenticity comes from research and specificity, not voice alone.",
+    },
+    {
+      question: "Is voice cloning worth it for sales videos?",
+      answer: "Yes, if you're doing high-volume outreach. Voice cloning lets you create a consistent, branded voice across all videos using Labs AI's voice cloning feature. This builds recognition and makes your entire outreach feel more personal and professional.",
+    },
+    {
+      question: "What script length works best for sales video AI voice?",
+      answer: "Stick to 15-30 seconds and 50-100 words maximum. This keeps the viewer engaged and leaves room for personalization. Longer scripts lose attention and feel more like presentations than personal messages.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

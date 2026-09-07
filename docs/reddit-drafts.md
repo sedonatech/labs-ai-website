@@ -384,3 +384,19 @@ So I've been using Labs AI on my iPhone, and I'm kind of blown away by the voice
 Been using it to create content for different markets, and clients are genuinely surprised when they hear their product description in Spanish, Japanese, and Portuguese all in the same voice. No hiring voice actors per language, no re-recording anything. The free version has everything you need, 50+ languages and 100+ other voices if you want alternatives.
 
 Anyone else using voice cloning for multilingual content? What languages are you working with?
+
+---
+
+## 2026-09-07 - How Salespeople Use AI Voice for Video Outreach
+
+**Titre Reddit :** AI voiceover completely changed how I do sales prospecting videos
+
+**Corps du post :**
+
+Been in sales for 8 years and recently started using text-to-speech to create personalized video outreach. Instead of recording 50 takes to get one clean message, I write a quick script with the prospect's name and something specific about their company, generate a voiceover, and layer it over a 20-second screen recording. Takes maybe 5 minutes per video instead of 20.
+
+The wild part is my response rate jumped from about 12% on email to 38% on video. And it doesn't sound robotic at all, which I was worried about. I've been using Labs AI on my phone and the voices are legitimately natural.
+
+Only downside is you have to actually write good scripts and do real research on each prospect. You can't just mass template it or people sense that immediately. But if you're already researching anyway, the voiceover step saves so much time compared to recording yourself.
+
+Has anyone else tried this approach? Curious if it's working as well for other people or if I just got lucky with my audience.
