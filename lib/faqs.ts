@@ -703,6 +703,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Stick to 15-30 seconds and 50-100 words maximum. This keeps the viewer engaged and leaves room for personalization. Longer scripts lose attention and feel more like presentations than personal messages.",
     },
   ],
+  'ai-voice-for-explainer-videos': [
+    {
+      question: "How long does it take to create an AI voiceover for an explainer video?",
+      answer: "Once your script is written, generating a professional AI voiceover takes 2-5 minutes. This includes voice selection, pacing adjustments, and export. Compare that to scheduling a voice actor, recording sessions, and multiple revisions, which typically takes 1-2 weeks.",
+    },
+    {
+      question: "Can AI voices sound natural enough for professional explainer videos?",
+      answer: "Yes. Modern AI text-to-speech technology produces voices that are nearly indistinguishable from human recordings. The key is choosing platforms optimized for narration (not just reading text) and fine-tuning pacing and emphasis. Labs AI specifically optimizes voices for video content.",
+    },
+    {
+      question: "What if I want a unique voice that sounds like my brand?",
+      answer: "Most premium AI platforms offer voice cloning, which lets you create a personalized AI voice from a few minutes of audio samples. This voice can then be used across all your explainer videos, building brand recognition and consistency.",
+    },
+    {
+      question: "Can I create explainer videos in multiple languages with AI voiceovers?",
+      answer: "Absolutely. AI text-to-speech supports 50+ languages. You can write your explainer script once, then generate versions in Spanish, French, Mandarin, Arabic, and dozens of other languages using native-sounding voices.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

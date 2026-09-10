@@ -400,3 +400,19 @@ The wild part is my response rate jumped from about 12% on email to 38% on video
 Only downside is you have to actually write good scripts and do real research on each prospect. You can't just mass template it or people sense that immediately. But if you're already researching anyway, the voiceover step saves so much time compared to recording yourself.
 
 Has anyone else tried this approach? Curious if it's working as well for other people or if I just got lucky with my audience.
+
+---
+
+## 2026-09-10 - How to Create Explainer Video Voiceovers with AI
+
+**Titre Reddit :** Finally ditched hiring voiceover actors for my explainer videos, and the quality is honestly better now
+
+**Corps du post :**
+
+I used to spend $300-500 per explainer video for a professional voiceover actor. It was always a bottleneck, especially when I needed to iterate on scripts or add new explainers quickly.
+
+Switched to AI text-to-speech about 3 months ago out of desperation, and I'm genuinely shocked at how good it sounds now. I'm using Labs AI on my phone to generate voiceovers, pick from different voices (I use a professional female voice for most content), and the narration syncs perfectly with my animations. The entire process takes maybe 10 minutes per video instead of 2 weeks of back-and-forth with talent.
+
+The weird part? My audience engagement actually went up. I think it's because I'm experimenting more with different scripts and styles now that I'm not locked into "we hired this person so we have to use this recording." I've also started A/B testing different voices for different explainers, and you can actually see which voice converts better.
+
+Anyone else here ditching traditional voiceover work, or does it still feel weird to you? I'm curious if there are types of content where AI voices still fall flat.
