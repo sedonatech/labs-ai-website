@@ -721,6 +721,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Absolutely. AI text-to-speech supports 50+ languages. You can write your explainer script once, then generate versions in Spanish, French, Mandarin, Arabic, and dozens of other languages using native-sounding voices.",
     },
   ],
+  'text-to-speech-for-newsletters': [
+    {
+      question: "Is AI-generated newsletter audio really natural-sounding?",
+      answer: "Modern AI voices have improved dramatically. While not identical to human narrators, they sound professional and natural in most contexts. Listeners often can't tell the difference, especially when listening at normal speed while multitasking. Labs AI specifically uses advanced voice synthesis that prioritizes natural intonation and pacing.",
+    },
+    {
+      question: "Can I clone my own voice for my newsletter?",
+      answer: "Yes! Many modern AI platforms, including Labs AI, offer voice cloning capabilities. You provide a short audio sample of yourself speaking, and the AI learns your unique tone, accent, and patterns. This creates a truly personalized audio newsletter experience.",
+    },
+    {
+      question: "What file formats can I export audio newsletters in?",
+      answer: "Labs AI supports MP3 and WAV formats, which are compatible with virtually all podcast platforms, email services, and web players. Most newsletter creators use MP3 since it's compressed for easy sharing while maintaining quality.",
+    },
+    {
+      question: "How long does it take to convert a newsletter to audio?",
+      answer: "Most newsletters generate in under 5 minutes, depending on length. A typical 800-1000 word newsletter takes 2-3 minutes to convert to audio. This is drastically faster than recording, editing, and producing audio manually.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

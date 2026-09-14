@@ -416,3 +416,19 @@ Switched to AI text-to-speech about 3 months ago out of desperation, and I'm gen
 The weird part? My audience engagement actually went up. I think it's because I'm experimenting more with different scripts and styles now that I'm not locked into "we hired this person so we have to use this recording." I've also started A/B testing different voices for different explainers, and you can actually see which voice converts better.
 
 Anyone else here ditching traditional voiceover work, or does it still feel weird to you? I'm curious if there are types of content where AI voices still fall flat.
+
+---
+
+## 2026-09-14 - How to Turn Your Newsletter into an Audio Version with AI
+
+**Titre Reddit :** Started converting my weekly newsletter to audio with AI and subscriber engagement went up 40%
+
+**Corps du post :**
+
+I run a small business newsletter that gets about 2,000 subscribers each week. For months I noticed people were opening emails but not clicking through to read the full content. Then I realized most of my subscribers are probably reading on their phones during their commute or gym time.
+
+So I started using Labs AI to convert each newsletter into an audio file. The whole process takes like 5 minutes. I just copy the text, paste it in, pick a voice that matches my brand vibe, and generate an MP3. Then I include a link in the email.
+
+The numbers have been wild. Not only did open rates stay the same, but listen rates are now around 40% of my subscriber base. People are actually engaging with my content during their commute instead of just deleting it unread. Plus it's free, which was a huge factor for me since I'm still bootstrapping.
+
+Has anyone else tried doing this with their newsletter? I'm curious if the engagement bump is typical or if I just got lucky with my audience.
