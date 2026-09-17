@@ -432,3 +432,17 @@ So I started using Labs AI to convert each newsletter into an audio file. The wh
 The numbers have been wild. Not only did open rates stay the same, but listen rates are now around 40% of my subscriber base. People are actually engaging with my content during their commute instead of just deleting it unread. Plus it's free, which was a huge factor for me since I'm still bootstrapping.
 
 Has anyone else tried doing this with their newsletter? I'm curious if the engagement bump is typical or if I just got lucky with my audience.
+
+---
+
+## 2026-09-17 - How Twitch Streamers Use AI Voice for Content
+
+**Titre Reddit :** How I'm using AI voice for my Twitch alerts and it actually sounds good
+
+**Corps du post :**
+
+I've been streaming for about two years and always recorded my own alerts and intros, but it was getting tedious. Recently started experimenting with AI voice tools to generate custom voiceovers for subs, donations, and highlight videos. The quality has come a long way, and honestly, some of the voices sound better than my tired voice at 2 AM after streaming for 8 hours.
+
+What's been wild is the voice cloning feature. I gave it a few samples of my own voice and now I can generate voiceovers that actually sound like me without having to sit down and re-record everything. My subscribers say the intros sound more consistent now too. The whole workflow takes maybe 30 seconds per voiceover, which is insane compared to recording and editing manually.
+
+I've been using Labs AI since it's free on iOS and I can generate voiceovers on my phone between stream sessions. The 100+ voices and multilingual support also opened up opportunities to create content for my international viewers. Has anyone else on here integrated AI voiceovers into their streams? Curious what you're using it for.

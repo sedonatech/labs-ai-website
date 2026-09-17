@@ -739,6 +739,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Most newsletters generate in under 5 minutes, depending on length. A typical 800-1000 word newsletter takes 2-3 minutes to convert to audio. This is drastically faster than recording, editing, and producing audio manually.",
     },
   ],
+  'ai-voice-for-twitch-streamers': [
+    {
+      question: "Can I use AI voice for Twitch alerts without sounding robotic?",
+      answer: "Modern AI voices have become remarkably natural. Labs AI's 100+ voices include options that sound conversational and human-like. The key is selecting the right voice for your brand and avoiding overuse. When layered with background music or sound effects, AI voiceovers sound polished and professional.",
+    },
+    {
+      question: "Is voice cloning on Twitch legal and allowed by Twitch ToS?",
+      answer: "Voice cloning your own voice is legal and complies with Twitch Terms of Service. You own the rights to your own voice, so cloning it for your content is perfectly acceptable. However, cloning someone else's voice without permission violates terms of service and potentially copyright laws.",
+    },
+    {
+      question: "How long does it take to generate AI voiceovers for a stream?",
+      answer: "Most AI voice tools, including Labs AI, generate voiceovers in seconds. You simply type your text, select a voice, and download the audio file. This makes it practical to create voiceovers on-demand before or during your streaming day.",
+    },
+    {
+      question: "What's the difference between AI voice and voice cloning for streamers?",
+      answer: "AI voice gives you access to pre-built voices in multiple languages and styles. Voice cloning creates a personalized AI voice based on your own voice samples. Cloning offers better brand consistency and uniqueness, while AI voices provide quick, ready-to-use options for various content types.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
