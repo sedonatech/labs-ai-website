@@ -757,6 +757,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "AI voice gives you access to pre-built voices in multiple languages and styles. Voice cloning creates a personalized AI voice based on your own voice samples. Cloning offers better brand consistency and uniqueness, while AI voices provide quick, ready-to-use options for various content types.",
     },
   ],
+  'text-to-speech-vs-recording-studio': [
+    {
+      question: "Is AI voice quality as good as a professional recording studio?",
+      answer: "For most content types (audiobooks, documentaries, e-learning, explainer videos), modern AI voice is essentially equivalent to studio quality. The differences appear primarily in branded content requiring distinctive human personality or dramatic performances requiring emotional nuance. For straightforward narration, most listeners cannot distinguish AI from professional studio recordings.",
+    },
+    {
+      question: "How much money can creators save by using AI voice instead of studios?",
+      answer: "Creators can save $50-$300+ per studio session, or $1,000-$5,000+ annually on equipment and subscription costs. With Labs AI free on iOS, there's zero upfront investment. This makes AI voice particularly valuable for creators testing new formats, producing high volume, or working with budget constraints.",
+    },
+    {
+      question: "Can AI voice handle multiple languages like recording studios can?",
+      answer: "AI voice actually exceeds studio capabilities here. Labs AI supports 50+ languages, allowing creators to reach global audiences without hiring multilingual voice actors. Studios would require separate sessions for each language, dramatically increasing costs.",
+    },
+    {
+      question: "What types of content are AI voices best for?",
+      answer: "AI voices excel for audiobooks, documentaries, e-learning courses, explainer videos, YouTube videos, podcasts (when using voice cloning), and faceless content channels. They're less ideal for branded podcast hosts where personality drives engagement, or dramatic productions where human performance is central.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
