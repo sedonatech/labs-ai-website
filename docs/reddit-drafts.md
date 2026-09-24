@@ -462,3 +462,19 @@ The workflow is insane too. I write a script in 30 minutes, run it through Labs 
 I'm not saying it replaces every use case (my main branded podcast I'm keeping human voice for), but for repurposing blog posts to audio, multilingual content, and testing new formats, this completely changes the math. Cost-wise I'm saving like $200+ monthly just on what I was spending on casual studio sessions.
 
 Anyone else make this switch? Curious how other creators are splitting between AI narration and traditional recording.
+
+---
+
+## 2026-09-24 - How to Make Money Creating AI Voice Content in 2026
+
+**Titre Reddit :** Started making money with AI voiceovers last year, way easier than I expected
+
+**Corps du post :**
+
+So I got curious about the whole AI voice thing and started experimenting with Labs AI on my phone just to see if it was legit. Turns out, I've been making decent passive income since then. Started with a YouTube channel doing finance explainer videos, then added a podcast, then started freelancing voiceover work on the side.
+
+The biggest thing I learned is that most people overthink this. You don't need fancy equipment or a perfect voice. I just write scripts, generate audio with Labs AI (the voice cloning feature is genuinely impressive), add video/visuals if needed, and publish. Zero recording time, zero equipment cost. The actual work is nailing the content and getting people to find it.
+
+I've made a few thousand dollars so far, nothing crazy, but enough to make it worth my time. Some months are better than others depending on what's trending. Finance content does really well, true crime stuff too. The limiting factor isn't the tool, it's audience size and marketing.
+
+Anyone here doing something similar with AI voice, or thinking about starting? Curious what niches are working best for other people right now.
