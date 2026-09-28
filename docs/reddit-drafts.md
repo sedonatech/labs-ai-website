@@ -478,3 +478,19 @@ The biggest thing I learned is that most people overthink this. You don't need f
 I've made a few thousand dollars so far, nothing crazy, but enough to make it worth my time. Some months are better than others depending on what's trending. Finance content does really well, true crime stuff too. The limiting factor isn't the tool, it's audience size and marketing.
 
 Anyone here doing something similar with AI voice, or thinking about starting? Curious what niches are working best for other people right now.
+
+---
+
+## 2026-09-28 - How to Dominate a Niche with AI Voice Content
+
+**Titre Reddit :** Using AI voice to publish 3x more niche content without burning out
+
+**Corps du post :**
+
+I've been experimenting with AI voice generation for my niche channel over the past few months and honestly it's been a game changer for output. Previously I was doing everything myself with a USB mic, which meant I could realistically do maybe one video per week. Now I'm writing 3-4 pieces of content and running them through Labs AI on my iPhone, then publishing across YouTube, TikTok, and newsletter. Same voice each time so people recognize it.
+
+The speed difference is wild. What used to take 6 hours of recording and editing now takes maybe 45 minutes from writing to published. This means I can actually maintain consistency without it consuming my entire life. My channel has grown maybe 2-3x faster in the same period, probably because the algorithm sees regular uploads as more of a signal.
+
+The key thing I realized is that people in specific niches actually don't care that much whether you're on camera or using AI voice. They just want consistent, accurate information. The creators I see struggling are the ones trying to be everywhere with poor quality. Better to own one niche with solid AI voice content than spread yourself thin.
+
+Has anyone else had success with this approach for niche content? Curious what niches work best and which ones seem to struggle with AI voice.

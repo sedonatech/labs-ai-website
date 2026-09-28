@@ -793,6 +793,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Finance and investing content, true crime narratives, self-help and motivational content, and educational explainer videos consistently perform well. Niches with passionate, engaged audiences and higher advertiser demand (finance, health, technology) tend to be most profitable. Test multiple niches to find where your skills and interests align with audience demand.",
     },
   ],
+  'ai-voice-for-niche-content': [
+    {
+      question: "How long does it take to dominate a niche with AI voice content?",
+      answer: "Most niche creators see meaningful traction within 2-3 months of consistent posting. This assumes 2-3 pieces of content weekly. The speed depends on niche competitiveness and audience size. Smaller, more specific niches often see faster growth because competition is lower.",
+    },
+    {
+      question: "Can I use the same AI voice across different platforms and content types?",
+      answer: "Yes, absolutely. In fact, this is recommended. Using a consistent voice creates brand recognition. Whether you're publishing on YouTube, TikTok, podcasts, or newsletters, the same voice becomes associated with your content and builds audience familiarity.",
+    },
+    {
+      question: "What makes a niche suitable for AI voice content?",
+      answer: "Any niche that values consistent information delivery works well with AI voice. Tutorial niches, educational content, news and commentary, storytelling, and informational channels all perform excellently. Avoid niches where personal connection or face-to-camera authenticity is central to the appeal.",
+    },
+    {
+      question: "How do I choose between different AI voices for my niche?",
+      answer: "Match voice tone to audience expectations. Test 2-3 voices for your first 5 pieces. Track audience response in comments and engagement. Your audience will let you know which voice resonates. Voice cloning lets you create a custom signature voice once you identify the right personality.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

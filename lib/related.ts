@@ -231,6 +231,14 @@ const relatedMap: Record<string, string[]> = {
     'ai-voice-for-explainer-videos',
     'best-text-to-speech-app-ios',
   ],
+  'ai-voice-for-niche-content': [
+    'faceless-youtube-channel-guide',
+    'how-to-make-youtube-videos-without-recording-voice',
+    'voice-cloning-content-creators',
+    'how-to-make-a-podcast-with-ai-voice',
+    'text-to-speech-for-newsletters',
+    'ai-voice-for-explainer-videos',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {
