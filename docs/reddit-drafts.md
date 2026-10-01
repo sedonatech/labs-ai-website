@@ -494,3 +494,19 @@ The speed difference is wild. What used to take 6 hours of recording and editing
 The key thing I realized is that people in specific niches actually don't care that much whether you're on camera or using AI voice. They just want consistent, accurate information. The creators I see struggling are the ones trying to be everywhere with poor quality. Better to own one niche with solid AI voice content than spread yourself thin.
 
 Has anyone else had success with this approach for niche content? Curious what niches work best and which ones seem to struggle with AI voice.
+
+---
+
+## 2026-10-01 - How to Create Book Summary Videos with AI Voice
+
+**Titre Reddit :** I've been making book summary videos in half the time using AI narration instead of recording myself
+
+**Corps du post :**
+
+Been creating book summary content for my YouTube channel, and I switched from recording my own voiceovers to using text-to-speech AI a few months ago. Game changer.
+
+The workflow is stupid simple: I write a 300-500 word summary, paste it into Labs AI on my phone, pick a voice, and I've got clean audio in seconds. No retakes, no editing room background noise, no waiting for my voice to cooperate at 2 AM.
+
+What surprised me most is how natural the voices sound now compared to what I remember from a few years ago. I've been experimenting with voice cloning too, so my whole channel has a consistent narrator. Viewers haven't even noticed it's AI, and honestly, the audio quality is better than my home studio setup was.
+
+I'm releasing way more summaries because the bottleneck of voice recording is gone. Curious if anyone else here is doing something similar, or if you've got concerns about AI narration that I haven't hit yet?

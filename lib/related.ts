@@ -239,6 +239,11 @@ const relatedMap: Record<string, string[]> = {
     'text-to-speech-for-newsletters',
     'ai-voice-for-explainer-videos',
   ],
+  'text-to-speech-for-book-summaries': [
+    'ai-voice-for-audiobooks',
+    'how-to-make-youtube-videos-without-recording-voice',
+    'faceless-youtube-channel-guide',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {

@@ -811,6 +811,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Match voice tone to audience expectations. Test 2-3 voices for your first 5 pieces. Track audience response in comments and engagement. Your audience will let you know which voice resonates. Voice cloning lets you create a custom signature voice once you identify the right personality.",
     },
   ],
+  'text-to-speech-for-book-summaries': [
+    {
+      question: "Can I use AI text-to-speech for copyrighted book content?",
+      answer: "You can create summaries and reviews of copyrighted books as fair use content, but avoid reproducing the entire book text. Focus on original analysis, themes, and insights. Always attribute the book and author, and consider adding your unique perspective or book club discussion angle.",
+    },
+    {
+      question: "How long should a book summary video be?",
+      answer: "It depends on your platform. YouTube summaries work best at 8-12 minutes, allowing deep exploration. TikTok and Instagram Reels perform better at 30-60 seconds with hooks. LinkedIn prefers 3-5 minute professional insights. Longer videos give more value, but shorter clips drive more engagement on social platforms.",
+    },
+    {
+      question: "Do AI voices sound natural enough for professional content?",
+      answer: "Yes, modern AI voices like those in Labs AI sound significantly more natural than older text-to-speech. They handle inflection, pacing, and emotion well. Voice cloning takes this further by matching your unique voice characteristics, making the narration sound authentic and personal.",
+    },
+    {
+      question: "Can I monetize book summary videos created with AI voices?",
+      answer: "Yes, you can monetize AI-generated content on YouTube, TikTok, and other platforms. The key is creating original, transformative summaries with added value through visuals, editing, and your unique perspective. Avoid simply reading entire book texts verbatim.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
