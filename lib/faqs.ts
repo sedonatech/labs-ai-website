@@ -829,6 +829,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, you can monetize AI-generated content on YouTube, TikTok, and other platforms. The key is creating original, transformative summaries with added value through visuals, editing, and your unique perspective. Avoid simply reading entire book texts verbatim.",
     },
   ],
+  'ai-voice-for-coaching': [
+    {
+      question: "Can I use my own voice with AI voice technology?",
+      answer: "Yes, voice cloning allows you to capture your authentic coaching voice and have AI generate content that sounds exactly like you. This maintains your brand consistency while giving you the speed advantage of AI generation.",
+    },
+    {
+      question: "Is AI-generated coaching voice authentic enough for clients?",
+      answer: "Modern AI voices are highly professional and natural-sounding. For many coaching applications like affirmations, meditations, and educational content, AI voice is indistinguishable from human recording. The key is choosing quality AI platforms over cheap text-to-speech options.",
+    },
+    {
+      question: "Can I use AI voice for multiple languages?",
+      answer: "Absolutely. This is one of AI voice's biggest advantages for coaches with international audiences. Write your content once, then generate audio in 50+ languages. This dramatically expands your reach without hiring translators or voice actors.",
+    },
+    {
+      question: "What's the fastest workflow for converting coaching content to audio?",
+      answer: "Write your script, paste it into an AI voice app like Labs AI, select your preferred voice, generate audio (usually under 1 minute), download the file, and add visuals if needed. The entire process takes 5-10 minutes per piece of content.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
