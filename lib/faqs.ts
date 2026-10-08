@@ -847,6 +847,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Write your script, paste it into an AI voice app like Labs AI, select your preferred voice, generate audio (usually under 1 minute), download the file, and add visuals if needed. The entire process takes 5-10 minutes per piece of content.",
     },
   ],
+  'voice-cloning-language-learning': [
+    {
+      question: "Can AI voice cloning actually help me improve my accent?",
+      answer: "Yes. By hearing native pronunciations repeatedly and comparing them to your own speaking, you train your ear and mouth for the correct accent patterns. This auditory feedback loop is one of the most effective ways to improve accent over time. Apps like Labs AI with natural-sounding voices accelerate this process.",
+    },
+    {
+      question: "Is voice cloning better than working with a human tutor for language learning?",
+      answer: "They're complementary. AI voice cloning excels at repetitive practice, pronunciation drills, and building confidence without judgment. Human tutors provide personalized feedback, cultural context, and dynamic conversation. The best approach combines both: use AI for daily practice, then apply what you've learned with real tutors.",
+    },
+    {
+      question: "Which languages does Labs AI support for language learning?",
+      answer: "Labs AI supports 50+ languages including Spanish, French, German, Mandarin, Japanese, Arabic, Portuguese, and many others. Each language has multiple voice options, making it versatile for learners at any level.",
+    },
+    {
+      question: "How much does it cost to use AI voice cloning for language learning?",
+      answer: "Labs AI is completely free on iOS. You get 100+ voices across 50+ languages with no subscription required. This makes professional-quality pronunciation practice accessible to anyone with an iPhone.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

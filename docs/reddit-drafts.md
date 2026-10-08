@@ -526,3 +526,17 @@ My workflow is stupid simple now: write the coaching script like I normally woul
 The voice cloning feature is clutch too. Generated my own voice profile so everything still sounds like me, just way more consistent than my actual recordings. Clients haven't noticed the difference, and honestly the audio quality is better since AI doesn't have background noise or bad days.
 
 Anyone else using this approach? I'm curious how other coaches are handling the multi-platform audio content thing and whether you've seen better engagement with audio versions of your material.
+
+---
+
+## 2026-10-08 - How Language Learners Use AI Voice Cloning
+
+**Titre Reddit :** Using AI voice cloning to practice language pronunciation has been a game-changer for my Spanish
+
+**Corps du post :**
+
+I've been learning Spanish for about a year, and honestly, my biggest stumbling block was always pronunciation and listening comprehension. I kept using those robotic text-to-speech apps that sound nothing like actual native speakers, so it never felt realistic.
+
+Recently I started using Labs AI on my iPhone (it's free, which is wild), and it's completely changed how I practice. I type out phrases or chunks of dialogue in Spanish, hear them spoken naturally, and can actually practice speaking back to it. The voices sound like real people, so it's way more immersive than the usual robot voices. I've been doing this for a few weeks and I can genuinely feel the difference in my accent and listening skills.
+
+The cool part is I can practice anytime during my commute or lunch break instead of waiting for a tutor. I'm still doing Duolingo and conversation exchanges, but this fills such a huge gap for daily speaking practice without judgment. Anyone else using voice cloning apps for language learning? What's been your experience with it?
