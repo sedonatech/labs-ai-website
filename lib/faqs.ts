@@ -865,6 +865,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI is completely free on iOS. You get 100+ voices across 50+ languages with no subscription required. This makes professional-quality pronunciation practice accessible to anyone with an iPhone.",
     },
   ],
+  'text-to-speech-for-property-listings': [
+    {
+      question: "Can I use the same AI voice for all my property listings?",
+      answer: "Yes, absolutely. In fact, using a consistent voice across all your listings builds brand recognition. Labs AI allows you to select your favorite voice and use it repeatedly. You can even create a custom cloned voice based on your own voice for ultimate brand consistency.",
+    },
+    {
+      question: "How long does it take to generate AI narration for a property listing video?",
+      answer: "With Labs AI, you can generate professional narration in under a minute. Write your script, paste it into the app, select your voice, adjust settings, and hit generate. The entire process typically takes 2-5 minutes, compared to hours of scheduling and recording with a voice actor.",
+    },
+    {
+      question: "What if I need narration in multiple languages for international buyers?",
+      answer: "Labs AI supports 50+ languages, making it perfect for reaching international real estate markets. Simply translate your property description and generate narration in the target language. This opens your listings to buyers worldwide without additional costs.",
+    },
+    {
+      question: "Is AI voice narration acceptable in professional real estate marketing?",
+      answer: "Yes, AI voice narration is now industry standard. Many top real estate agents and brokerages use AI-generated narration for listings. It's professional, cost-effective, and allows agents to focus on what matters: selling properties. Buyers care about the property, not whether the voice is human or AI-generated.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
