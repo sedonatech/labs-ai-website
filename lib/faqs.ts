@@ -883,6 +883,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, AI voice narration is now industry standard. Many top real estate agents and brokerages use AI-generated narration for listings. It's professional, cost-effective, and allows agents to focus on what matters: selling properties. Buyers care about the property, not whether the voice is human or AI-generated.",
     },
   ],
+  'ai-voice-accuracy': [
+    {
+      question: "Can listeners tell the difference between AI voice and human voice in 2026?",
+      answer: "In blind listening tests, listeners correctly identify the speaker type only 3-8% of the time, meaning 92-97% can't tell the difference. For professional content, AI voice is effectively indistinguishable from human narration.",
+    },
+    {
+      question: "Which industries benefit most from accurate AI voice technology?",
+      answer: "E-learning, audiobooks, YouTube content, podcasting, accessibility services, and multilingual marketing all benefit significantly. Any industry producing large volumes of audio content finds AI voice accuracy advantageous.",
+    },
+    {
+      question: "Is AI voice accurate enough to replace human voice actors?",
+      answer: "For most commercial applications, yes. However, specialized work requiring extreme emotional nuance, accent-specific performances, or unconventional delivery might still require human talent. AI voice is best for efficiency and scale.",
+    },
+    {
+      question: "What makes Labs AI's AI voice accurate on iOS?",
+      answer: "Labs AI leverages ElevenLabs' neural network technology with 100+ voice options, voice cloning, and support for 50+ languages. The free iOS app delivers the same accuracy as professional desktop solutions.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
