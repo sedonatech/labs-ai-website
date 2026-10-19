@@ -267,6 +267,14 @@ const relatedMap: Record<string, string[]> = {
     'how-to-make-youtube-videos-without-recording-voice',
     'ai-voice-for-audiobooks',
   ],
+  'how-to-pick-ai-voice': [
+    'ai-voice-for-explainer-videos',
+    'ai-voice-for-audiobooks',
+    'voice-cloning-for-brands',
+    'multilingual-content-creation-ai',
+    'how-to-make-youtube-videos-without-recording-voice',
+    'text-to-speech-vs-recording-studio',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {

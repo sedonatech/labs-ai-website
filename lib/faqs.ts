@@ -901,6 +901,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI leverages ElevenLabs' neural network technology with 100+ voice options, voice cloning, and support for 50+ languages. The free iOS app delivers the same accuracy as professional desktop solutions.",
     },
   ],
+  'how-to-pick-ai-voice': [
+    {
+      question: "How many voices does Labs AI offer?",
+      answer: "Labs AI provides access to 100+ voices across 50+ languages, giving you extensive options for any content type or target audience. You can test multiple voices directly on your iPhone before selecting your favorite.",
+    },
+    {
+      question: "Can I use voice cloning to create a unique brand voice?",
+      answer: "Yes. Labs AI includes voice cloning capabilities that let you create a personalized AI voice based on your own voice or a specific vocal style. This is ideal for building a distinctive brand identity across all your content.",
+    },
+    {
+      question: "What's the difference between choosing a voice for YouTube vs. social media?",
+      answer: "YouTube content typically benefits from clear, authoritative voices that maintain listener interest over longer periods, while social media content (TikTok, Reels, Shorts) often performs better with energetic, personality-driven voices that grab attention quickly. Your content length and platform's viewing behavior should guide your choice.",
+    },
+    {
+      question: "How do I know if an AI voice will work for my niche content?",
+      answer: "Test the voice with a representative sample of your actual content, listen on the devices your audience uses, and consider gathering feedback from beta listeners. Labs AI makes this easy since you can generate test audio directly on iOS before committing to a full project.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
