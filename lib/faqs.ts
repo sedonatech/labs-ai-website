@@ -919,6 +919,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Test the voice with a representative sample of your actual content, listen on the devices your audience uses, and consider gathering feedback from beta listeners. Labs AI makes this easy since you can generate test audio directly on iOS before committing to a full project.",
     },
   ],
+  'text-to-speech-ipad': [
+    {
+      question: "Is Labs AI really free for iPad?",
+      answer: "Yes, Labs AI is completely free on the App Store with no subscriptions, ads, or hidden fees. You get full access to 100+ voices, 50+ languages, and voice cloning features without paying anything.",
+    },
+    {
+      question: "Can I use Labs AI voices for commercial projects?",
+      answer: "Yes, you can use the generated audio for commercial purposes including YouTube videos, podcasts, business content, and more. Check the app's terms for any specific guidelines, but commercial use is permitted.",
+    },
+    {
+      question: "How does voice cloning work on iPad?",
+      answer: "Voice cloning in Labs AI works by uploading a sample of your voice (typically a few minutes of audio). The AI analyzes your voice characteristics and creates a custom voice that matches your tone, accent, and personality. You can then use this cloned voice for any text-to-speech conversion.",
+    },
+    {
+      question: "Can Labs AI handle long documents?",
+      answer: "Yes, Labs AI can process lengthy documents and texts. The app is optimized for iPad's performance and can convert substantial amounts of text without slowing down. Generated audio files can be exported in common formats for use in other apps or platforms.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

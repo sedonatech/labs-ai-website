@@ -584,3 +584,17 @@ been creating content with text-to-speech for about a year now and i used to jus
 like, i was using this super energetic voice for meditation guides and people kept bailing halfway through. switched to a calm, gentle voice and retention shot up. same applies for fitness content going the other direction. even tried voice cloning to make everything sound consistent across my channel.
 
 anyway, been using labs ai lately since it's free and has a ton of voices to experiment with on my phone. makes testing actually painless. curious if anyone else thinks about voice selection strategically or am i overthinking this?
+
+---
+
+## 2026-10-22 - Best Text-to-Speech App for iPad
+
+**Titre Reddit :** Text-to-speech on iPad - which app are you actually using?
+
+**Corps du post :**
+
+I've been testing different TTS apps for iPad because I needed something reliable for converting documents into audio. Tried a few paid options and honestly they're overpriced for what they do. Found Labs AI through a recommendation and it's been solid so far. Free, tons of voices, multiple languages, and the voice quality is way better than I expected from a free app.
+
+The voice cloning feature is legitimately useful if you want consistency across different pieces of content. Already used it on a couple of projects with zero issues. Zero ads, zero subscription stuff, just works.
+
+Just curious, are people still paying for subscription TTS apps when something like this exists? What features do you think actually matter most in a text-to-speech tool?
