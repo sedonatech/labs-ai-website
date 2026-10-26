@@ -937,6 +937,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, Labs AI can process lengthy documents and texts. The app is optimized for iPad's performance and can convert substantial amounts of text without slowing down. Generated audio files can be exported in common formats for use in other apps or platforms.",
     },
   ],
+  'ai-voice-for-storytelling': [
+    {
+      question: "Can AI voice really sound natural enough for fiction storytelling?",
+      answer: "Yes, modern AI voices like those in Labs AI have advanced significantly and now capture natural intonation, emotional nuance, and proper pronunciation. Most listeners cannot distinguish quality AI narration from professional human voice actors, especially for fiction. Testing different voices from Labs AI's 100+ options helps you find the perfect match for your narrative style.",
+    },
+    {
+      question: "How do I handle character dialogue with different voices?",
+      answer: "Labs AI's extensive voice library lets you assign different voices to different characters. You can generate dialogue sections separately with assigned voices, then combine them in your audio editor. This technique significantly improves listener experience by making it clear who's speaking without constant 'he said, she said' attribution.",
+    },
+    {
+      question: "Is voice cloning worth it for fiction content?",
+      answer: "Voice cloning becomes valuable if you're producing multiple stories or an ongoing series. It ensures consistency across your fiction catalog and adds a signature element that helps build author brand recognition. For single projects, choosing the right voice from Labs AI's existing library works perfectly well.",
+    },
+    {
+      question: "What file formats does Labs AI export for distribution?",
+      answer: "Labs AI exports high-quality MP3 files that work with all major podcast platforms, audiobook retailers, and audio distribution services. This makes it easy to publish your AI-voiced fiction on Audible, your podcast feed, YouTube, or any other platform you choose.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
