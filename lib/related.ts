@@ -285,6 +285,11 @@ const relatedMap: Record<string, string[]> = {
     'how-to-make-a-podcast-with-ai-voice',
     'voice-cloning-content-creators',
   ],
+  'text-to-speech-chinese': [
+    'multilingual-content-creation-ai',
+    'voice-cloning-content-creators',
+    'ai-voice-for-elearning',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {

@@ -612,3 +612,19 @@ I started experimenting with AI voice narration for my short fiction pieces last
 The key is picking the right voice for your story's tone and doing a few test runs before committing to the full manuscript. I tried Labs AI since it's free and was surprised how natural the voices sound, especially when narrating dialogue with different voice assignments for different characters. The voice cloning feature is also neat if you want your stories to have a consistent "signature" voice across your catalog.
 
 I'm now converting my unpublished stories to audio and uploading them to my podcast. Has anyone else tried this for fiction content? What platform or approach worked best for you?
+
+---
+
+## 2026-10-29 - Best Text-to-Speech App for Chinese on iPhone
+
+**Titre Reddit :** Finally found a text-to-speech app that actually handles Chinese tones correctly
+
+**Corps du post :**
+
+Been creating content for Chinese markets for a while, and honestly, most text-to-speech apps butcher Mandarin pronunciation. The tones are all over the place, and it sounds so robotic that viewers immediately click away.
+
+Just switched to Labs AI on my iPhone and it's a total game-changer. The voice quality is actually natural, and it respects the tonal system properly. No more sounding like a GPS trying to speak Chinese. Plus, the voice cloning feature is insane, I can train it on my own voice and create a consistent sound across all my videos.
+
+Best part? It's completely free on iOS. Been using it for my YouTube shorts and TikTok, and the engagement has noticeably improved because the audio actually sounds professional now.
+
+Has anyone else here struggled with getting good Chinese voiceovers? What was your solution before finding something that actually works?

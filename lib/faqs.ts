@@ -955,6 +955,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI exports high-quality MP3 files that work with all major podcast platforms, audiobook retailers, and audio distribution services. This makes it easy to publish your AI-voiced fiction on Audible, your podcast feed, YouTube, or any other platform you choose.",
     },
   ],
+  'text-to-speech-chinese': [
+    {
+      question: "Does Labs AI support both Mandarin and Cantonese?",
+      answer: "Yes. Labs AI includes native speakers of both Mandarin Chinese and Cantonese, so you can choose voices that match your target audience. Both languages are fully supported with accurate tonal pronunciation.",
+    },
+    {
+      question: "Can I use Labs AI's Chinese voices for commercial projects?",
+      answer: "Yes, Labs AI is free and includes commercial usage rights. You can use generated Chinese voiceovers in YouTube videos, TikTok content, podcasts, e-learning courses, and other commercial applications without restrictions.",
+    },
+    {
+      question: "How accurate is Labs AI's Mandarin pronunciation?",
+      answer: "Labs AI uses advanced AI trained on native Chinese speakers, so it handles Mandarin tones and pronunciation with high accuracy. The app correctly differentiates between the four tones, which is critical for meaning in Chinese. For best results, ensure your input text is properly formatted Chinese characters.",
+    },
+    {
+      question: "Can I clone a Chinese voice with Labs AI?",
+      answer: "Absolutely. Labs AI's voice cloning feature works with Chinese voices. Record a sample (even just 15-30 seconds) of any Chinese speaker, and the app will create a personalized Chinese voice based on that sample. This is perfect for brands wanting consistent voice identity or for personal projects.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
