@@ -973,6 +973,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Absolutely. Labs AI's voice cloning feature works with Chinese voices. Record a sample (even just 15-30 seconds) of any Chinese speaker, and the app will create a personalized Chinese voice based on that sample. This is perfect for brands wanting consistent voice identity or for personal projects.",
     },
   ],
+  'ai-voice-for-self-help-content': [
+    {
+      question: "Is using AI voice in self-help content considered authentic?",
+      answer: "Yes, when used transparently. Many top-tier self-help creators openly share that they use AI voice, and audiences don't mind because the content quality and consistency matter more. What matters is the value of your message, not the method of delivery. Voice cloning can make the AI voice feel even more personal and branded to your channel.",
+    },
+    {
+      question: "Can I use AI voice for personal development content on YouTube without copyright issues?",
+      answer: "Completely. AI-generated voiceovers are original content you create and own. You have full copyright. This is different from using someone else's voice or music without permission. You can monetize YouTube videos with AI voiceovers just like any other content.",
+    },
+    {
+      question: "What's the best AI voice for motivation videos?",
+      answer: "It depends on your audience and content style. For calm, meditative self-help content, choose a warm, slower-paced voice. For high-energy productivity content, choose a confident, faster-paced voice. Labs AI offers 100+ voices to test. Try several before committing to one across your entire channel.",
+    },
+    {
+      question: "Can I create multilingual self-help content with AI voice?",
+      answer: "Yes. Write your script in English, translate it to your target languages, then generate voiceovers in each language. This lets you reach Spanish-speaking, French-speaking, Mandarin-speaking, and other audiences without hiring translators or voice actors. It's one of the biggest advantages of AI voice for scaling self-help content globally.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
