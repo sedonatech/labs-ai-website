@@ -991,6 +991,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes. Write your script in English, translate it to your target languages, then generate voiceovers in each language. This lets you reach Spanish-speaking, French-speaking, Mandarin-speaking, and other audiences without hiring translators or voice actors. It's one of the biggest advantages of AI voice for scaling self-help content globally.",
     },
   ],
+  'what-is-ai-narration': [
+    {
+      question: "Is AI narration noticeable or does it sound robotic?",
+      answer: "Modern AI narration technology has advanced significantly. Premium AI narrator apps like Labs AI use neural networks trained on thousands of hours of human speech, producing natural intonation, appropriate pacing, and realistic emotion. While some basic text-to-speech tools still sound robotic, contemporary AI narration is increasingly difficult to distinguish from human voiceovers, especially in educational, documentary, and marketing content.",
+    },
+    {
+      question: "Can I use AI narration for commercial projects?",
+      answer: "Yes. Most AI narrator apps, including Labs AI, allow commercial use of generated audio. You can use AI-narrated content for YouTube monetization, podcast sponsorships, audiobook sales, and client projects. Always verify your specific app's license terms, as some services have restrictions on commercial use of certain voices or content.",
+    },
+    {
+      question: "How does AI narration compare to hiring a voice actor?",
+      answer: "AI narration offers speed, cost savings, and consistency, making it ideal for creators producing high volumes of content. Voice actors provide nuanced performance, emotional depth, and custom interpretation. Many creators use both: AI narration for routine content and voice actors for key projects where performance quality heavily influences engagement.",
+    },
+    {
+      question: "Can I clone my own voice for AI narration?",
+      answer: "Yes. Voice cloning technology lets you create a personalized AI voice based on your own recordings. This is particularly useful for brand consistency, especially if you're known for your voice or want to maintain a personal connection with your audience. Labs AI offers voice cloning directly on iOS, allowing you to generate narration in your own voice without constantly re-recording.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
