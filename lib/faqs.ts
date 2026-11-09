@@ -1009,6 +1009,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes. Voice cloning technology lets you create a personalized AI voice based on your own recordings. This is particularly useful for brand consistency, especially if you're known for your voice or want to maintain a personal connection with your audience. Labs AI offers voice cloning directly on iOS, allowing you to generate narration in your own voice without constantly re-recording.",
     },
   ],
+  'labs-ai-vs-murf': [
+    {
+      question: "Is Labs AI completely free?",
+      answer: "Yes, Labs AI is completely free on iOS with no hidden paywalls, subscription costs, or usage limits. You get unlimited text-to-speech conversion, 100+ voices, and voice cloning at no cost.",
+    },
+    {
+      question: "Can I use Murf AI on my iPhone?",
+      answer: "Murf AI has limited mobile app functionality. It's primarily designed as a web-based platform. While you can access it on iPhone through the browser, the full feature set and user experience are optimized for desktop.",
+    },
+    {
+      question: "Does Labs AI have voice cloning?",
+      answer: "Yes, Labs AI includes voice cloning capabilities completely free. You can clone your voice or others' voices and use them across your projects for personalized content creation.",
+    },
+    {
+      question: "What languages does Labs AI support?",
+      answer: "Labs AI supports 50+ languages and accents, making it ideal for creators producing multilingual content or targeting international audiences.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

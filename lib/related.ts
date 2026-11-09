@@ -300,6 +300,11 @@ const relatedMap: Record<string, string[]> = {
     'ai-voice-for-audiobooks',
     'ai-voice-for-elearning',
   ],
+  'labs-ai-vs-murf': [
+    'how-to-make-a-podcast-with-ai-voice',
+    'ai-voice-for-audiobooks',
+    'how-to-make-youtube-videos-without-recording-voice',
+  ],
 }
 
 export function getRelatedSlugs(slug: string): string[] {
