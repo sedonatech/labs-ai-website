@@ -1027,6 +1027,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI supports 50+ languages and accents, making it ideal for creators producing multilingual content or targeting international audiences.",
     },
   ],
+  'labs-ai-vs-play-ht': [
+    {
+      question: "Can I use Labs AI offline on my iPhone?",
+      answer: "Labs AI requires an internet connection to generate audio, as the processing happens on ElevenLabs servers. This is consistent with most cloud-based TTS solutions and ensures you always get the latest voice models and updates.",
+    },
+    {
+      question: "Does Play.ht offer voice cloning like Labs AI?",
+      answer: "Play.ht does offer voice cloning, but it's typically a premium feature with additional costs. Labs AI includes voice cloning free for all iOS users, making it more accessible for creators experimenting with personalized voices.",
+    },
+    {
+      question: "Which app is better for YouTube video narration?",
+      answer: "Both work well for YouTube, but Labs AI's **[free voice cloning and iOS integration](https://labsai.com/voice-cloning-app-iphone)** make it ideal for creators working primarily on mobile. For desktop creators needing extreme language flexibility, Play.ht offers broader options.",
+    },
+    {
+      question: "Can I export audio from Labs AI in different formats?",
+      answer: "Yes, Labs AI exports in standard audio formats compatible with editing software and social media platforms. You can download and share your narration across YouTube, TikTok, podcasting apps, and other content platforms.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

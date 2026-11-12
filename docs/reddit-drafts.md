@@ -676,3 +676,19 @@ The voice variety is solid (100+ voices across 50+ languages), but what really g
 Voice cloning feature is also built in and works seamlessly. I cloned my own voice for branding and it took like two minutes to set up.
 
 Anyone else here doing voice work on mobile? Are you guys paying for tools when free alternatives exist, or am I missing something about Murf that makes it worth the cost?
+
+---
+
+## 2026-11-12 - Labs AI vs Play.ht: Which TTS App Is Better?
+
+**Titre Reddit :** Just switched from Play.ht to Labs AI for podcast editing on my phone, and wow the difference is wild
+
+**Corps du post :**
+
+So I've been using Play.ht for about a year now, dropping like $15/month on it. Decent app, solid voices, but the mobile experience always felt clunky and the costs add up. Decided to try Labs AI just to see what the hype was about, and I'm honestly shocked.
+
+First thing I noticed: it's completely free. Like, all the premium voices, all the features, zero subscription. I can do voice cloning right on my iPhone, which sounds crazy but actually works insanely well for maintaining consistent narration across episodes. The app feels like it was actually designed for mobile workflows instead of being a mobile version of a desktop tool, if that makes sense.
+
+I've been testing it on **[my audiobook project](https://labsai.com/ai-voice-for-audiobooks)** and the audio quality honestly matches what I was paying for before. Same ElevenLabs engine on the backend apparently. Only thing Play.ht has that Labs AI doesn't is if you need super obscure languages, but for English and Spanish content it covers everything I need.
+
+Anyone else made this switch? Curious if I'm missing something or if I've just been overpaying for a year.
