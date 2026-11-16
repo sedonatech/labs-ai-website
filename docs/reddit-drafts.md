@@ -692,3 +692,19 @@ First thing I noticed: it's completely free. Like, all the premium voices, all t
 I've been testing it on **[my audiobook project](https://labsai.com/ai-voice-for-audiobooks)** and the audio quality honestly matches what I was paying for before. Same ElevenLabs engine on the backend apparently. Only thing Play.ht has that Labs AI doesn't is if you need super obscure languages, but for English and Spanish content it covers everything I need.
 
 Anyone else made this switch? Curious if I'm missing something or if I've just been overpaying for a year.
+
+---
+
+## 2026-11-16 - Best Portuguese Text-to-Speech App for iPhone
+
+**Titre Reddit :** Free Portuguese text-to-speech on iPhone - anyone else using Labs AI for content creation?
+
+**Corps du post :**
+
+I'm curious if other content creators are using AI voiceover apps for Portuguese content. I started using Labs AI a few weeks ago to narrate YouTube videos targeted at Portuguese speakers, and I've been genuinely surprised by how well it works. The European and Brazilian Portuguese voice options are distinct enough that I can target different markets without sounding generic.
+
+The thing that sold me was the voice cloning. Instead of picking a standard voice, I recorded about 30 seconds of my own voice and it generated a model that sounds like me. Now I can pump out narration that feels personal and consistent without spending hours in the studio. Plus, the app is free, which is huge when you're bootstrapping a channel.
+
+I know there are paid alternatives like ElevenLabs, but I haven't found anything they offer that justifies a monthly subscription, especially not for Portuguese voiceovers. The quality is definitely professional enough for YouTube, podcasts, and educational content.
+
+Does anyone use this for language learning or audiobook narration? I'm wondering how it scales for longer-form projects.

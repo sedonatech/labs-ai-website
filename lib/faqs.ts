@@ -1045,6 +1045,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Yes, Labs AI exports in standard audio formats compatible with editing software and social media platforms. You can download and share your narration across YouTube, TikTok, podcasting apps, and other content platforms.",
     },
   ],
+  'text-to-speech-portuguese': [
+    {
+      question: "Does Labs AI support both European and Brazilian Portuguese?",
+      answer: "Yes, Labs AI includes multiple Portuguese voice options supporting both European Portuguese and Brazilian Portuguese dialects. You can preview each voice to find the perfect match for your target audience.",
+    },
+    {
+      question: "Can I use voice cloning to create a personalized Portuguese voice?",
+      answer: "Absolutely. Labs AI's voice cloning feature allows you to record a Portuguese audio sample, which the AI then uses to create a personalized voice model. You can use this custom voice unlimited times across all your projects.",
+    },
+    {
+      question: "Is Labs AI really free for Portuguese text-to-speech?",
+      answer: "Yes, Labs AI is completely free on iOS. You get unlimited access to all 100+ voices, 50+ languages, and voice cloning without any subscription fees or hidden costs.",
+    },
+    {
+      question: "How natural do the Portuguese voiceovers sound compared to human voice actors?",
+      answer: "Labs AI's Portuguese voices use advanced AI technology to produce natural-sounding speech with proper prosody, intonation, and inflection. While they sound distinctly AI-generated, the quality is professional and suitable for most content creation purposes.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {
