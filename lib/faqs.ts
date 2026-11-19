@@ -1063,6 +1063,24 @@ const faqs: Record<string, FAQ[]> = {
       answer: "Labs AI's Portuguese voices use advanced AI technology to produce natural-sounding speech with proper prosody, intonation, and inflection. While they sound distinctly AI-generated, the quality is professional and suitable for most content creation purposes.",
     },
   ],
+  'ai-voice-for-product-demos': [
+    {
+      question: "Can I use AI-generated voiceovers commercially for product demos?",
+      answer: "Yes, absolutely. Labs AI grants full commercial rights to all generated audio. You can use AI voiceovers in product demos, marketing videos, YouTube content, and client deliverables without restrictions or additional licensing fees.",
+    },
+    {
+      question: "How do I make my AI voiceover sound more natural and less robotic?",
+      answer: "Write conversational scripts with short sentences, use strategic punctuation for pacing, and test multiple voices to find the most natural tone. Labs AI's 100+ voices include many with extremely natural prosody. Avoid overly formal language and read your script aloud first to catch awkward phrasing.",
+    },
+    {
+      question: "What's the best video length for product demos with AI voiceovers?",
+      answer: "60-90 seconds works best for social media and ads. YouTube allows longer format demos (3-5 minutes) if you structure them clearly with chapters. Shorter is always safer: viewers rarely watch full-length demos, so prioritize your strongest features first.",
+    },
+    {
+      question: "Can I clone my own voice for product demos?",
+      answer: "Yes, Labs AI offers voice cloning technology, allowing you to record a sample of your own voice and generate unlimited voiceovers that sound like you. This builds brand consistency and personal connection across all your product demos.",
+    },
+  ],
 }
 
 export function getFaqsBySlug(slug: string): FAQ[] {

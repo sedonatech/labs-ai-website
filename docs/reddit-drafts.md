@@ -708,3 +708,19 @@ The thing that sold me was the voice cloning. Instead of picking a standard voic
 I know there are paid alternatives like ElevenLabs, but I haven't found anything they offer that justifies a monthly subscription, especially not for Portuguese voiceovers. The quality is definitely professional enough for YouTube, podcasts, and educational content.
 
 Does anyone use this for language learning or audiobook narration? I'm wondering how it scales for longer-form projects.
+
+---
+
+## 2026-11-19 - How to Create Product Demo Videos with AI Voice
+
+**Titre Reddit :** Using AI voiceovers for product demos has completely changed my workflow
+
+**Corps du post :**
+
+I used to hire voice actors for every new product demo we'd launch, which meant waiting weeks and spending hundreds per video. Recently switched to AI text-to-speech for demos, and honestly it's a game-changer.
+
+The process is now: write script, pick a voice from 100+ options, generate audio in 30 seconds, sync with screen recording in CapCut, ship it. Revisions are instant instead of waiting for the talent to have an opening. We've gone from launching one demo per month to rolling out demos the same day features ship.
+
+I've tried a bunch of tools, but Labs AI on iPhone is my favorite because I can literally generate voiceovers on my phone between meetings, download them, and get them straight into editing. The voices actually sound natural too, which was my biggest concern at first.
+
+Anyone else using AI voice for product videos? Curious if you've run into any situations where clients or users could tell the voiceover was AI-generated.
